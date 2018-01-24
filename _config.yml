@@ -24,11 +24,7 @@ github_username:  maikeldotuk
 
 # Build settings
 markdown: kramdown
-<<<<<<< HEAD
 theme: minima
-=======
-theme: jekyll-theme-minimal
->>>>>>> b39048bda3e28828fcbd9466b700ca3267eecd92
 plugins:
   - jekyll-feed
 

@@ -29,7 +29,23 @@ Most people believe that you spend the day programming stuff you actually love, 
 
 What I want to do is to use my knowledge in **freelance** jobs on my spare time and personal projects. That won't limit me on what I can and cannot learn. For an overview of what I am already knowledgeable (but not limited) off have a look at [maikel.uk](www.maikel.uk) and you will see my skillset.
 
+## What have you done in the past?
+
 I am interested in many sort of jobs, I've been:
+- Estate Agency Coordinator
 - Cleaner (yes, cleaner, and worse, enjoyed it).
 - Shift Manager for a gay sauna.
-- 
+- Call centre agent (Rentalcars, Natwest Mortgages, Orange).
+- Caretaker for one of London's councils.
+- IT Operator in a data centre for 2 banks.
+- IT Support for an European Union organism.
+
+The list never ends and that's not counting what I've done as freelancer, currently I keep all the bills paid by editing videos.
+
+## What do you really want to do now?
+
+I want to work in an office setting because I enjoy excelling at what I do. It keeps me going. I type above 90 words per minute and I automate almost everything I do with a computer. Using this knowledge I usually stand out in office jobs that require the user of a computer. I don't want to try more roles, I want to grow roots in a company. My interest are two-fold, on one side you've got what I really want to do as an *employee* and on the other side what I want to do on my spare time *freelancing*.
+
+As an employee I look for stability, as a freelancer I look for fun.
+
+Feel free to navigate and explore this brand new blog and raise any questions to the email below shall you wish to ask me anything. I might implement later a commenting feature. 

@@ -1,4 +1,5 @@
 ---
+layout: posts
 title:  "Test2"
 date:   2018-01-24 19:00:01 +0000
 categories: jobseeking project

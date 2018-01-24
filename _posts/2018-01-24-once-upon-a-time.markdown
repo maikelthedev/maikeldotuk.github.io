@@ -1,6 +1,7 @@
 ---
+layout: posts
 title:  "Once Upon a Time"
-date:   2018-01-23 18:00:01 +0000
+date:   2018-01-24 18:00:01 +0000
 categories: jobseeking project
 ---
 ## So, what is this?

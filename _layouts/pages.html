@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "en-GB" }}">
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
@@ -13,7 +13,7 @@
 
     <header>
       <div class="container">
-        <h1><a style="text-decoration:none; color:inherit" href="http://blog.maikel.uk">{{ site.title | default: site.github.repository_name }}</a></h1>
+        {% include title.html %}
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
       </div>
     </header>
@@ -22,10 +22,7 @@
       <section id="main_content">
         {{ content }}
       </section>
-      <!-- Only this ones contain the back button -->
-      <a onclick="window.history.back()">Back</a>
-
-
+      {% include back.html %}
     </div>
 
 

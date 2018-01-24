@@ -13,7 +13,7 @@
 
     <header>
       <div class="container">
-        <h1><a style="text-decoration:none; color:inherit" href="http://blog.maikel.uk">{{ site.title | default: site.github.repository_name }}</a></h1>
+        {% include title.html %}
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
       </div>
     </header>
@@ -21,12 +21,9 @@
     <div class="container">
       <section id="main_content">
         {{ content }}
-      </section>
-      <!-- Only this ones contain the back button -->
-      <a onclick="window.history.back()">Back</a>
-
-
-    </div>
+    </section>
+    {% include back.html %}
+  </div>
 
 
   </body>

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Once Upon a Time"
 date:   2018-01-24 18:00:01 +0000
 categories: jobseeking project
@@ -48,4 +47,20 @@ I want to work in an office setting because I enjoy excelling at what I do. It k
 
 As an employee I look for stability, as a freelancer I look for fun.
 
-Feel free to navigate and explore this brand new blog and raise any questions to the email below shall you wish to ask me anything. I might implement later a commenting feature. 
+### As an employee:
+Stability and long-term are a must so I'm looking for roles of the type:
+- Data Entry / Typist.
+- Administrator Assistant
+- Accountant Assistant
+
+
+### As freelancer:
+The main reason I don't want to try being a Software Developer as a career goal is because I've got too many interests. These are the things I can do.
+- NativeScript a programmer. This is a platform that allows you to design apps that are cross-platform compatible iOS and Android.
+- Angular developer.
+- Full stack javascript developer.
+- Web Scraper with Python and Scrapy.
+- Front-end Web Developer.
+As you see this covers too many disciplines and evolves with time, reason for which I wouldn't ever enjoy being prisoner of a framework and programming language for any company. I rather do eventual contracted jobs so I can move on after I finish.
+
+Feel free to navigate and explore this brand new blog and raise any questions to the email below shall you wish to ask me anything. I might implement later a commenting feature.

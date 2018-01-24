@@ -1,7 +1,8 @@
 ---
-title:  "Once Upon a Time"
-date:   2018-01-23 18:00:01 +0000
+title:  "Test2"
+date:   2018-01-24 19:00:01 +0000
 categories: jobseeking project
+published: false
 ---
 ## So, what is this?
 This is a blog, created in [Jekyll](https://jekyllrb.com/) a simple static page creator for blogs that do not require a database. I didn't know how to use it, never heard of it, until two hours ago.

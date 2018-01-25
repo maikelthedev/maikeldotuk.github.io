@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-I've got multiple copies depending of the job I apply for. I never lie on them, I simply remove or group what's irrelevant for the post.
+I've got multiple copies depending of the job I apply for. I never lie on them, I simply remove or group what's irrelevant for the post. In here, no grouping has been done, this is my unfiltered untailored CV.
 
 ## Education (from most recent)
 
@@ -44,8 +44,6 @@ This is equivalent to the first year of British A-levels. *2006, Spain.* The sub
 
 ## Job experience
 
-Bear with me while I fill this up
-
 ### Freelance Video Editor
 *Self-Employed*. Currently since June 2016. London
 - Editing recordings, adding labels, tags, titles with no typos, logos, selecting from multicamera videos and delivering the final post-produced file for use as training material.
@@ -68,8 +66,7 @@ Bear with me while I fill this up
 - Receiving the customers and being in charge of any queries they have during the shift.
 - Performing drug searches on suspicious customers and denying them the entrance or asking them to leave.
 
-#### Break due to exams preparation on the Open University.
-Note: Find the one about Aegis
+#### Foreseeing the difficulty of starting university after a long break from academia and considering it was the first time I studied in English, I saved enough money to spend the entire first year job-free 100% focused in my studies and that's what I did.
 
 ### Call Centre Agent (Inbound calls)
 *Rentalcars* . April to September 2013. Manchester
@@ -96,7 +93,6 @@ Note: Find the one about Aegis
 - Performing continued light cleaning and scheduled deep cleaning tasks throughout the shift.
 - Ensuring the venue complies with health and safety standards at all times.
 
-
 ### Accenture
 *Datacentre Operative* . August 2008 to May 2011. Andorra
 - Ensuring the correct functioning of the servers within the data centre.
@@ -109,7 +105,7 @@ Note: Find the one about Aegis
 - Assisting the users with any issues they could have while the network was in place.
 - Troubleshooting any issues ICT related.
 
-Break: During this break obtained the 1st of Baccaularette in Social Sciences.
+#### Break: During this break obtained the 1st of Baccalaureate in Social Sciences.
 
 ### Estate Agency Coordinator
 *Century 21* . April 2005 to August 2006. Spain

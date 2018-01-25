@@ -5,7 +5,7 @@ date:   2018-01-24 18:00:01 +0000
 categories: jobseeking project
 ---
 ## So, what is this?
-This is a blog, created in [Jekyll](https://jekyllrb.com/) a simple static page creator for blogs that do not require a database. I didn't know how to use it, never heard of it, until two hours ago.
+This is a blog, created in [Jekyll](https://jekyllrb.com/) a simple static page creator for blogs that does not require a database. I didn't know how to use it, never heard of it, until two hours ago.
 
 At around 3pm today I started a search about blogging platforms, I'm already aware and knowledgeable of [Wordpress](https://wordpress.org/download/) (I had a self-hosted blog for about 7 years) and [Ghost](https://ghost.org/) so I wanted a bit of a challenge.
 
@@ -27,7 +27,7 @@ Nothing much. I took the degree because I didn't want to waste my time in the UK
 
 Most people believe that you spend the day programming stuff you actually love, but that's not the reality, you end up being constrained to some programming language, some framework and doing menial stuff continuously for others. Stuff you don't believe in. You could argue that most jobs are like that, I can counter-argue that most jobs don't consist on solving-sudokus non-stop. And that's what programming is about.
 
-What I want to do is to use my knowledge in **freelance** jobs on my spare time and personal projects. That won't limit me on what I can and cannot learn. For an overview of what I am already knowledgeable (but not limited) off have a look at [maikel.uk](www.maikel.uk) and you will see my skillset.
+What I want to do is to use my knowledge in **freelance** jobs on my spare time and personal projects. That won't limit me on what I can and cannot learn. For an overview of what I am already knowledgeable (but not limited) off have a look at [maikel.uk](https://www.maikel.uk) and you will see my skillset.
 
 ## What have you done in the past?
 

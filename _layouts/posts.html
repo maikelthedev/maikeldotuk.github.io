@@ -10,16 +10,11 @@
   </head>
 
   <body>
-
-    <header>
-      <div class="container">
-        {% include title.html %}
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-      </div>
-    </header>
-
+  {% include headerpost.html %}
+<hr>
     <div class="container">
       <section id="main_content">
+{% include back.html %}
         {{ content }}
     </section>
     {% include back.html %}

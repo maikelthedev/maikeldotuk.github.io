@@ -1,5 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-24T22:40:19+00:00</updated><id>http://localhost:4000/</id><title type="html">Rooting in London - Maikel’s Blog</title><subtitle>Another blog of another Spaniard settled down in the UK trying to grow some roots in London</subtitle><entry><title type="html">Once Upon a Time</title><link href="http://localhost:4000/jobseeking/project/2018/01/24/once-upon-a-time.html" rel="alternate" type="text/html" title="Once Upon a Time" /><published>2018-01-24T18:00:01+00:00</published><updated>2018-01-24T18:00:01+00:00</updated><id>http://localhost:4000/jobseeking/project/2018/01/24/once-upon-a-time</id><content type="html" xml:base="http://localhost:4000/jobseeking/project/2018/01/24/once-upon-a-time.html">&lt;h2 id=&quot;so-what-is-this&quot;&gt;So, what is this?&lt;/h2&gt;
-&lt;p&gt;This is a blog, created in &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; a simple static page creator for blogs that do not require a database. I didn’t know how to use it, never heard of it, until two hours ago.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-25T00:32:36+00:00</updated><id>http://localhost:4000/</id><title type="html">Rooting in London - Maikel’s Blog</title><subtitle>Another blog of another Spaniard settled in the UK trying to grow some roots in London</subtitle><entry><title type="html">8 hours playing sudokus</title><link href="http://localhost:4000/jobseeking/project/2018/01/24/8-hours-playing-sudokus.html" rel="alternate" type="text/html" title="8 hours playing sudokus" /><published>2018-01-24T22:00:01+00:00</published><updated>2018-01-24T22:00:01+00:00</updated><id>http://localhost:4000/jobseeking/project/2018/01/24/8-hours-playing-sudokus</id><content type="html" xml:base="http://localhost:4000/jobseeking/project/2018/01/24/8-hours-playing-sudokus.html">&lt;p&gt;Imagine that you were paid for playing sudokus, they are all the same with only slighly variations and your career progression is simply to find different ways to play it or to do it faster.&lt;/p&gt;
+
+&lt;p&gt;That is what a job in Software Development &lt;strong&gt;as an employee&lt;/strong&gt; looks like.&lt;/p&gt;
+
+&lt;p&gt;You’re constrained in&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The programming language you can use&lt;/li&gt;
+  &lt;li&gt;The frameworks you can use.&lt;/li&gt;
+  &lt;li&gt;The ideas that you have.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Basically someone comes with a piece of code, in Soft.Devel terms this is called a specification and you’ve got to write the code for it. This is rarely interesting bits or puzzles to solve but always the same related stuff.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Now you know why I don’t want to work as a Software Developer for anyone.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Look at &lt;a href=&quot;https://www.maikel.uk&quot;&gt;maikel.uk&lt;/a&gt;, if I had to prepare for just one employer I would just know a fraction of what I wrote there. Being a freelancer preserves the fun of it.&lt;/p&gt;
+
+&lt;p&gt;You can love sudokus, but if you do the same one every working day of the year for the rest of your life you’ll hate it.&lt;/p&gt;</content><author><name></name></author><summary type="html">Imagine that you were paid for playing sudokus, they are all the same with only slighly variations and your career progression is simply to find different ways to play it or to do it faster.</summary></entry><entry><title type="html">Once Upon a Time</title><link href="http://localhost:4000/jobseeking/project/2018/01/24/once-upon-a-time.html" rel="alternate" type="text/html" title="Once Upon a Time" /><published>2018-01-24T18:00:01+00:00</published><updated>2018-01-24T18:00:01+00:00</updated><id>http://localhost:4000/jobseeking/project/2018/01/24/once-upon-a-time</id><content type="html" xml:base="http://localhost:4000/jobseeking/project/2018/01/24/once-upon-a-time.html">&lt;h2 id=&quot;so-what-is-this&quot;&gt;So, what is this?&lt;/h2&gt;
+&lt;p&gt;This is a blog, created in &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; a simple static page creator for blogs that does not require a database. I didn’t know how to use it, never heard of it, until two hours ago.&lt;/p&gt;
 
 &lt;p&gt;At around 3pm today I started a search about blogging platforms, I’m already aware and knowledgeable of &lt;a href=&quot;https://wordpress.org/download/&quot;&gt;Wordpress&lt;/a&gt; (I had a self-hosted blog for about 7 years) and &lt;a href=&quot;https://ghost.org/&quot;&gt;Ghost&lt;/a&gt; so I wanted a bit of a challenge.&lt;/p&gt;
 
@@ -21,7 +40,7 @@
 
 &lt;p&gt;Most people believe that you spend the day programming stuff you actually love, but that’s not the reality, you end up being constrained to some programming language, some framework and doing menial stuff continuously for others. Stuff you don’t believe in. You could argue that most jobs are like that, I can counter-argue that most jobs don’t consist on solving-sudokus non-stop. And that’s what programming is about.&lt;/p&gt;
 
-&lt;p&gt;What I want to do is to use my knowledge in &lt;strong&gt;freelance&lt;/strong&gt; jobs on my spare time and personal projects. That won’t limit me on what I can and cannot learn. For an overview of what I am already knowledgeable (but not limited) off have a look at &lt;a href=&quot;www.maikel.uk&quot;&gt;maikel.uk&lt;/a&gt; and you will see my skillset.&lt;/p&gt;
+&lt;p&gt;What I want to do is to use my knowledge in &lt;strong&gt;freelance&lt;/strong&gt; jobs on my spare time and personal projects. That won’t limit me on what I can and cannot learn. For an overview of what I am already knowledgeable (but not limited) off have a look at &lt;a href=&quot;https://www.maikel.uk&quot;&gt;maikel.uk&lt;/a&gt; and you will see my skillset.&lt;/p&gt;
 
 &lt;h2 id=&quot;what-have-you-done-in-the-past&quot;&gt;What have you done in the past?&lt;/h2&gt;
 
@@ -63,4 +82,4 @@
 As you see this covers too many disciplines and evolves with time, reason for which I wouldn’t ever enjoy being prisoner of a framework and programming language for any company. I rather do eventual contracted jobs so I can move on after I finish.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Feel free to navigate and explore this brand new blog and raise any questions to the email below shall you wish to ask me anything. I might implement later a commenting feature.&lt;/p&gt;</content><author><name></name></author><summary type="html">So, what is this? This is a blog, created in Jekyll a simple static page creator for blogs that do not require a database. I didn’t know how to use it, never heard of it, until two hours ago.</summary></entry></feed>
+&lt;p&gt;Feel free to navigate and explore this brand new blog and raise any questions to the email below shall you wish to ask me anything. I might implement later a commenting feature.&lt;/p&gt;</content><author><name></name></author><summary type="html">So, what is this? This is a blog, created in Jekyll a simple static page creator for blogs that does not require a database. I didn’t know how to use it, never heard of it, until two hours ago.</summary></entry></feed>

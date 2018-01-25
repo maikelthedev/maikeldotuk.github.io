@@ -14,4 +14,4 @@ I see myself making it a fully-fledge charity and offering a wide variety of ser
 I do have a passion and I really want to dedicate my life to it. It goes beyond Computing, it is Cognitive Psychology and I want to very slowly study at least a Post-Grad Certificate on it. My interest is to reduce learning curves. I want to build a computing system that can help us learn any subject quicker or at the very least can help us retain the information we learn for longer.
 
 ## The employee job
-I see myself as enjoying life in the office with my colleagues and progressing to senior roles in a major corporate firm. 
+I see myself as enjoying life in the office with my colleagues and progressing to senior roles in a major corporate firm.

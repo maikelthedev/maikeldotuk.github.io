@@ -117,3 +117,44 @@ This is equivalent to the first year of British A-levels. *2006, Spain.* The sub
 - Updating the shop’s display, ads on local newspapers and the database. Ringing customers every certain weeks to ensure their property was still up for sale or to rent.
 
 ## Skillset
+
+Take into consideration that enumerating all the technologies that I know for the computing area of my skillset is a hard task because I am not aware of what I know but I rarely use.
+
+### Computing Skills:
+I have got a good grasp of technologies such as.
+-	Cloud services (AWS, OpenStack, Heroku, Azure).
+-	JavaScript language and frameworks (MongoDB, Node, Express, Angular 5, npm).
+-	Python language and frameworks (Python 3, PyPi, Scrapy, Pandas).
+-	Java programming including a basic awareness of Servlets and Spring framework.
+-	Office suits such as MS Office, LibreOffice and Google Drive are a no-brainer.
+-	Operating systems such as Linux, Windows, Mac.
+- Content Management Systems (Wordpress, Joomla, Drupal, Ghost).
+-	And many others, feel free to ask.
+
+I designed from scratch [maikel.uk](https://www.maikel.uk) using technologies such as Angular, Bootstrap, CSS, HTML5, JavaScript, Node, ExpressJs and Mongo precisely to create a Content Management System in which I could enumerate what I know. I encourage you to have a look at that site to have an idea of what I know. It is not an exhaustive list but at least contains the latest tech that has my interest.
+
+### Soft Skills:
+
+- Abnormally quick learner.
+  - I can learn a whole new language on my own with no tutors (hello, I'm writing to you in English!).
+  - I can learn an entire programming language with no directions.
+- Excellent will-power.
+  - Quit smoking 3 years ago. After smoking 30 cigarettes per day for many years with no help. I built an acquire taste for running instead.
+  - If the circumstances require it, I've got no qualms in starting from scratch as working as a cleaner despite my wide IT knowledge proves. Only because at that time I needed to polish my English to feel confident for better jobs.
+- Strong work ethic
+  - While at work, my main task, from which all the others relay on is to do whatever is necessary to take pride on my job. I try to get better at my tasks every day and that makes me happy.
+- Good Communication Skills.
+   - The proof is the fact I am not using autocorrect in this entire CV.
+   - Did I mention I can communicate fluently  with around 800 million people around the world due to being bilingual Spanish-English?
+   - I can understand the Scouse accent, Glaswegian and any other British accent as if they were all the same. Sometimes I have "translated" other British accents to English people who couldn't understand them.
+- Problem-Solving Skills.
+  - I like puzzles, problems and issues and solving them. They set a precedent to solve another problems, and I get better the more I practice. This is the main reason I chose Computing Science as my hobby.
+- Team Player:
+   - While working for Accenture I was informally the liason between my line-managers and his superiors and my own team. Whenever a new technology was introduced in the data centre, I was the first handling it so in case something wasn't quite right I would inform my superiors so they could fix it, while I would keep inform my own colleagues on my team of the new procedures and efficient ways to deal with them. It was easier for my line manager to let me the responsibility of simplifying and explain the new tasks to my colleagues. I usually wrote the documentation that the entire team of 9 operators used.
+- Ability to Accept and Learn From Criticism
+  - In fact, honestly, is the lack of it what bothers me. Without constructive criticism you cannot become better. When one relies only on himself to find out what needs improvement, there's a strong possibility that we embed our own errors.
+- Flexibility
+  - I am in a different country, with a different language, with different friends. Surrounded by hundreds of cultures and doing many different types of jobs with a focused goal of settling down here.
+
+
+Please if you consider that I've forgotten anything on this informal CV let me know at <a href="mailto: blog@maikel.uk">blog@maikel.uk</a>

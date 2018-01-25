@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 #### Please do not share
-I've got multiple copies depending of the job I apply for. I never lie on them, I simply remove or group what's irrelevant for the post. In here, no grouping has been done, this is my unfiltered untailored <span style="color:orange">informal</span> CV and as such please don't share it (nor this website) with any potential employer. For that I can write a tailored one to whichever vacancy is available with its respective application letter.
+I've got multiple copies depending of the job I apply for. I am honest on them and I simply remove or group what's irrelevant for the post. In here, no grouping has been done, this is my unfiltered untailored unabridged and <span style="color:orange">informal</span> CV and as such please don't share it (nor this website) with any potential employer. For that I can write a tailored one to whichever vacancy is available with its respective application letter.
 
 This page is divided in Education, Job Experience and Skillset. I do recommend to read each separately with a bowl of popcorn in one hand.
 

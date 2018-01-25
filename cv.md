@@ -4,7 +4,9 @@ title: CV
 permalink: /cv/
 ---
 
-I've got multiple copies depending of the job I apply for. I never lie on them, I simply remove or group what's irrelevant for the post. In here, no grouping has been done, this is my unfiltered untailored CV.
+I've got multiple copies depending of the job I apply for. I never lie on them, I simply remove or group what's irrelevant for the post. In here, no grouping has been done, this is my unfiltered untailored informal CV.
+
+This page is divided in Education, Job Experience and Skillset. I do recommend to read each separately with a bowl of popcorn in one hand.
 
 ## Education (from most recent)
 
@@ -113,3 +115,5 @@ This is equivalent to the first year of British A-levels. *2006, Spain.* The sub
 - Finding areas in which the agency had no properties and sending the agents there to find some.
 - Computerizing the property database on my own initiative. It was entirely paper based and more than 300 properties, this increased the productivity of the team as less time was wasted matching buyers and sellers and therefore increased sales.
 - Updating the shop’s display, ads on local newspapers and the database. Ringing customers every certain weeks to ensure their property was still up for sale or to rent.
+
+## Skillset

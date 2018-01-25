@@ -15,11 +15,11 @@
       <div class="container">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-        <div align="right">
+        <div align="right"><h2>
         {% for page in site.pages %}
-          <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-          {{ page.excerpt }}
+          <a href="{{ page.url }}">{{ page.title }}</a>
         {% endfor %}
+        </h2>
       </div>
       </div>
 

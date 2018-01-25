@@ -15,10 +15,18 @@
     <div class="container">
       <section id="main_content">
 {% include back.html %}
+{% if page.categories contains 'jobseeking' %}
+      {% include jobseeking.html %}
+{% endif %}
         {{ content }}
     </section>
+
     {% include back.html %}
+
+
   </div>
+
+
 
 
   </body>

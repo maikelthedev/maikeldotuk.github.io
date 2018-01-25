@@ -13,10 +13,10 @@ You're constrained in
 * The frameworks you can use.
 * The ideas that you have.
 
-Basically someone comes with a piece of code, in Soft.Devel terms this is called a specification and you've got to write the code for it. This is rarely interesting bits or puzzles to solve but always the same related stuff.
+Basically someone comes with a piece of a very simple problem, in Soft.Devel terms this is called a specification and you've got to write the code for it. This is rarely interesting bits or puzzles to solve but always the same related stuff.
 
 > Now you know why I don't want to work as a Software Developer for anyone.
 
 Look at [maikel.uk](https://www.maikel.uk), if I had to prepare for just one employer I would just know a fraction of what I wrote there. Being a freelancer preserves the fun of it.
 
-You can love sudokus, but if you do the same one every working day of the year for the rest of your life you'll hate it. 
+You can love sudokus, but if you do the same one every working day of the year for the rest of your life you'll hate it.

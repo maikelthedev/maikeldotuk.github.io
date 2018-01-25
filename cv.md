@@ -147,7 +147,7 @@ I designed from scratch [maikel.uk](https://www.maikel.uk) using technologies su
 - Good Communication Skills.
    - The proof is the fact I am not using autocorrect in this entire CV.
    - Did I mention I can communicate fluently  with around 800 million people around the world due to being bilingual Spanish-English?
-   - I can understand the Scouse accent, Glaswegian and any other British accent as if they were all the same. Sometimes I have "translated" other British accents to English people who couldn't understand them.
+   - I can understand the Liverpudlian accent, Glaswegian and any other British accent as if they were all the same. Sometimes I have "translated" other British accents to English people who couldn't understand them.
 - Problem-Solving Skills.
   - I like puzzles, problems and issues and solving them. They set a precedent to solve another problems, and I get better the more I practice. This is the main reason I chose Computing Science as my hobby.
 - Team Player:

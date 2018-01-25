@@ -5,19 +5,19 @@ fields:
   label: Layout
   type: text
   hidden: false
-  default: ''
+  default: post
 - name: title
   label: Title
   type: text
   hidden: false
-  default: ''
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
-  default: ''
+  default: Test
 - name: categories
   label: Categories
   type: tag_list
   hidden: false
   default: ''
+- type: text
+  name: date
+  label: date
+  config:
+    required: true

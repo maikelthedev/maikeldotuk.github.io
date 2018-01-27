@@ -9,6 +9,8 @@ I've got multiple copies depending of the job I apply for. I am honest on them a
 
 This page is divided in Education, Job Experience and Skillset. I do recommend to read each separately with a bowl of popcorn in one hand.
 
+<span style="color:orange">UPDATE 1:</span> It helps me if I can tag each job with how I find it. That can give me ideas I could use now. So I'll added it to each of them.
+
 ## Education (from most recent)
 
 ### BSc in Computing and IT (pending)
@@ -48,14 +50,29 @@ This is equivalent to the first year of British A-levels. *2006, Spain.* The sub
 ## Job experience
 
 ### Freelance Video Editor
+<small><span style="color:orange">How did I find it?</span> It found me, I didn't search for it. It was a case of being in the right place on the right time. People who knew what I'm capable of with a computer offered it to me and I accepted.</small>
+
 *Self-Employed*. Currently since June 2016. London
 - Editing recordings, adding labels, tags, titles with no typos, logos, selecting from multicamera videos and delivering the final post-produced file for use as training material.
 - Most are TESOL training videos.
 - Working from home (weekends), taking responsibility of delivering them on time and to the upmost standard with no supervision.
 
+
 #### Break due to exams preparation on the Open University.
 
+### Data Scientist
+
+<small><span style="color:orange">How did I find it?</span> I put an add in Reddit saying I was looking for an entry level job as a software developer exposing all my skills (the website) and showing some projects I've done such as the webcrawler for Reed.co.uk that helps filter jobs I'm not interesed for. The founder of the company sent me a message to have an interview </small>
+
+*Some Tech Company* . September to October 2017. London
+- Using Python, Scrapy, Airflow, Git, PyFunctional, Pandas, Docker and other technologies extract data from some websites according to a given criteria and produce a data product ready for the client.
+- After inspecting the data is correct, send it to the client.
+- Updating a private Github codebase from the company and improving it, adding unit tests to old code and creating new code using a test-first approach.
+
 ### Caretaker
+
+<small><span style="color:orange">How did I find it?</span> I applied through Cv-library or Reed.co.uk</small>
+
 *Some London Council* . August 2015 to March 2016. London
 - Maintenance of a patch by changing the bins every morning and twice a week the ones of the communal areas.
 - Daily: change bins, collect any excess on the pavement, unblock chutes if blocked then brush the entry of the building, the reception and the lobby, brush the lifts too, then take one of them all the way up the building (20 floors). Brush all the landings, stairs all the way down then mop the floor of four floors. Starting on Monday from the 20th, finishing on Friday on the first, including the stairs connecting them.
@@ -64,6 +81,9 @@ This is equivalent to the first year of British A-levels. *2006, Spain.* The sub
 #### Break due to exams preparation on the Open University.
 
 ### Shift Manager
+
+<small><span style="color:orange">How did I find it?</span> I was offered it by someone who knew I had experience working in gay saunas as cleaner and receptionist.</small>
+
 *A Gay Sauna in East London* . January to May 2015. London
 - Leading the cleaners, checking out they correctly do their job and advising them otherwise.
 - Receiving the customers and being in charge of any queries they have during the shift.
@@ -72,6 +92,8 @@ This is equivalent to the first year of British A-levels. *2006, Spain.* The sub
 #### Foreseeing the difficulty of starting university after a long break from academia and considering it was the first time I studied in English, I saved enough money to spend the entire first year job-free 100% focused in my studies and that's what I did.
 
 ### Call Centre Agent (Inbound calls)
+<small><span style="color:orange">How did I find it?</span> A friend who worked there told me they were looking for people. It took barely 3 days between the saunas to signing a contract in the call centre. This friend made 500 pounds from my employment. </small>
+
 *A Company Who rents Cars* . April to September 2013. Manchester
 - Receiving phone calls from customers to book rental cars from anywhere in the world.
 - Attending customers from both Spanish spoken and English market.
@@ -79,30 +101,40 @@ This is equivalent to the first year of British A-levels. *2006, Spain.* The sub
 
 
 ### Cleaner
+<small><span style="color:orange">How did I find it?</span> I printed my CV and delivered it personally. I was in a rush in need of a job so I had to go for the fastest job I could find and as I already had the experience</small>
+
 *A Gay Sauna in Manchester* . November 2012 to April 2013. Manchester
 - Being in charge of the cleanliness of a venue that could receive up to 200 customers per shift.
 - Performing on demand light cleaning tasks and scheduled heavy deep cleaning to the highest standards.
 - Ensuring health and safety standards were met at all times.
 
 ### Cleaner
+<small><span style="color:orange">How did I find it?</span> My first British job in the sauna was paying very little, this one paid much more. The overtime in the sauna wasn't guaranteed, while this one was 40 hours per week guaranteed. I took both, sauna on weekends. It was too much work though and no days off</small>
+
 *A Company that provides Medical Equipment* . February to October 2012. London
 - Cleaning using steam cleaners and jet washers.
 - Manually cleaning, following extra careful measures since it was medical equipment.
 - Carrying out the recycling process from receiving the items, cleaning them (or discarding them if recycling is not possible) and packing them back in the shelves.
 
 ### SPA Assistant
+<small><span style="color:orange">How did I find it?</span> I could barely speak English and I was terribly insecure (probably still am) so working in "the scene" felt as a safe choice. A friend told me they were looking so I applied and got the job. I met some wonderful co-workers.</small>
+
 *A gay sauna in South London* . July 2011 to October 2012. London
 - Receiving customers, money handling and light cooking including daily shopping of ingredients for the kitchen.
 - Performing continued light cleaning and scheduled deep cleaning tasks throughout the shift.
 - Ensuring the venue complies with health and safety standards at all times.
 
-### Accenture
+### Datacentre Operator
+<small><span style="color:orange">How did I find it?</span> Chance. I carpeted Andorra of my CV, delivered them personally every day but also send them via email as I managed to get a database with the names of all the companies (and emails) in the country. A friend asked his ex if they were looking so he gave them my CV. I had the most surreal ever interview and stayed on the job for a very long time. It is still so far the best and most rewarding ever job I have had.</small>
+
 *A datacentre that belongs to two Andorra banks* . August 2008 to May 2011. Andorra
 - Ensuring the correct functioning of the servers within the data centre.
 - Troubleshooting any aroused issues or calling the relevant department to escalate.
 - Using AIX (Unix), Control-M, taking responsibility of the batch process of two Andorran banks.
 
 ### ICT Officer
+<small><span style="color:orange">How did I find it?</span> I didn't find it, it found me. I put on one dating website that I was looking for work and the computing skills I had, someone was looking for someone like me and got me the job. It was another case of being in the right place in the right time.</small>
+
 *A European Union organism* . June 2007 to June 2008. Spain
 - Setting up a temporary network of computers in different locations.
 - Assisting the users with any issues they could have while the network was in place.
@@ -111,6 +143,8 @@ This is equivalent to the first year of British A-levels. *2006, Spain.* The sub
 #### Break: During this break obtained the 1st of Baccalaureate in Social Sciences.
 
 ### Estate Agency Coordinator
+<small><span style="color:orange">How did I find it?</span> I carpeted my hometown with my CV, I went one by one to all the places I could imagine that might need people and hand delivered my CV.</small>
+
 *An American Estate Agency whose name ends in 21* . April 2005 to August 2006. Spain
 - Matching properties to clients and passing this data on request to the estate agents.
 - Finding areas in which the agency had no properties and sending the agents there to find some.

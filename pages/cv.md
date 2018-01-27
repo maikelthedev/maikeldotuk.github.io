@@ -148,7 +148,7 @@ This is equivalent to the first year of British A-levels. *2006, Spain.* The sub
 *An American Estate Agency whose name ends in 21* . April 2005 to August 2006. Spain
 - Matching properties to clients and passing this data on request to the estate agents.
 - Finding areas in which the agency had no properties and sending the agents there to find some.
-- Computerizing the property database on my own initiative. It was entirely paper based and more than 300 properties, this increased the productivity of the team as less time was wasted matching buyers and sellers and therefore increased sales.
+- Computerising the property database on my own initiative. It was entirely paper based and more than 300 properties, this increased the productivity of the team as less time was wasted matching buyers and sellers and therefore increased sales.
 - Updating the shop’s display, ads on local newspapers and the database. Ringing customers every certain weeks to ensure their property was still up for sale or to rent.
 
 ## Skillset

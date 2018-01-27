@@ -5,7 +5,7 @@ date:   2018-01-26 23:00:01 +0000
 categories: jobseeking
 published: true
 ---
-This morning there was a bit of sun so I used it by going with a new acquaintance to Warpole Park with a coffee. It's incredibly how much can 15 minutes of sun in your face affect your mood, isn't it?
+This morning there was a bit of sun so I used it by going with a new acquaintance to Warpole Park with a coffee. It's incredible how much can 15 minutes of sun in your face affect your mood, isn't it?
 
 Today I'm spending most of the day alone, the point was to find or to think what am I going to do next. The time I've got available to find a job is vanishing quickly yet I haven't secured anything yet, which considering how resourceful I usually am is quite shocking. I' got to admit *the degree has me caught by my balls* because I can't never focus on a single task, I still have to make time to study. So I would normally put all my energies in getting the job and sort it in 7 days, but I can't do that now because I also study.
 

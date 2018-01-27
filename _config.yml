@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Art of Growing Roots in London
+title: The Friction-Full Art of Growing Roots in London
 email: blog@maikel.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Another blog of another Spaniard settled in the UK trying to grow some

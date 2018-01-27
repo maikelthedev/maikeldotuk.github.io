@@ -92,7 +92,7 @@ This is equivalent to the first year of British A-levels. *2006, Spain.* The sub
 #### Foreseeing the difficulty of starting university after a long break from academia and considering it was the first time I studied in English, I saved enough money to spend the entire first year job-free 100% focused in my studies and that's what I did.
 
 ### Call Centre Agent (Inbound calls)
-<small><span style="color:orange">How did I find it?</span> A friend who worked there told me they were looking for people. It took barely 3 days between the saunas to signing a contract in the call centre. This friend made 500 pounds from my employment. </small>
+<small><span style="color:orange">How did I find it?</span> A friend who worked there told me they were looking for people. It took barely 3 days after quitting the sauna to sign a contract in the call centre. This friend made 500 pounds from my employment (finders fee). </small>
 
 *A Company Who rents Cars* . April to September 2013. Manchester
 - Receiving phone calls from customers to book rental cars from anywhere in the world.
@@ -109,7 +109,7 @@ This is equivalent to the first year of British A-levels. *2006, Spain.* The sub
 - Ensuring health and safety standards were met at all times.
 
 ### Cleaner
-<small><span style="color:orange">How did I find it?</span> My first British job in the sauna was paying very little, this one paid much more. The overtime in the sauna wasn't guaranteed, while this one was 40 hours per week guaranteed. I took both, sauna on weekends. It was too much work though and no days off</small>
+<small><span style="color:orange">How did I find it?</span> I applied through Cv-library or Reed.co.uk</small>
 
 *A Company that provides Medical Equipment* . February to October 2012. London
 - Cleaning using steam cleaners and jet washers.
@@ -125,7 +125,7 @@ This is equivalent to the first year of British A-levels. *2006, Spain.* The sub
 - Ensuring the venue complies with health and safety standards at all times.
 
 ### Datacentre Operator
-<small><span style="color:orange">How did I find it?</span> Chance. I carpeted Andorra of my CV, delivered them personally every day but also send them via email as I managed to get a database with the names of all the companies (and emails) in the country. A friend asked his ex if they were looking so he gave them my CV. I had the most surreal ever interview and stayed on the job for a very long time. It is still so far the best and most rewarding ever job I have had.</small>
+<small><span style="color:orange">How did I find it?</span> Chance. I carpeted Andorra of my CV, delivered them personally every day but also sent them via email as I managed to get a database with the names of all the companies (and emails) in the country. A friend asked his ex if they were looking so he gave them my CV. I had the most surreal ever interview and stayed on the job for a very long time. It is still so far the best and most rewarding ever job I have had.</small>
 
 *A datacentre that belongs to two Andorra banks* . August 2008 to May 2011. Andorra
 - Ensuring the correct functioning of the servers within the data centre.

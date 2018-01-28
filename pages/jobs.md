@@ -13,6 +13,7 @@ As an employee I look for long-term stability and career progression.
 * Payroll Clerk
 * General Office Clerk jobs
 * Datacentre Operator
+* Cleaner or Caretaker only exceptionally when I just need a job quickly.
 
 ## Freelance gigs
 As a freelancer I prefer to venture into discovery of new fields and technologies. I've rarely fully known how to do what I am asked, but I do my own research and learn it as I go along.

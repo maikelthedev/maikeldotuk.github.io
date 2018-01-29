@@ -11,7 +11,7 @@ So I thought, cleaner, it's always the safe choice. It's always the hateful choi
 
 Yet I'm a bloody good cleaner. Which isn't much of a celebration considering it doesn't need any special qualifications.
 
-I did the math and the absolute minimum for me to get above the bedroom and still have enough for food is 8 pounds an hour and 37.5 hours a week. That's 300 pounds a week. If we count taxes inside it might need to be 9 pounds per hour.
+I did the math and the absolute minimum for me to get above the bedroom and still have enough for food is 8 pounds an hour and 37.5 hours a week. That's 300 pounds a week. If we count taxes inside it I might need to work for 9 pounds per hour or more. 
 
 So I need to find a job that pays no less than 8 pounds an hour and offers at least 37.5 hours.
 

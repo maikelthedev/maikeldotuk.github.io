@@ -11,7 +11,7 @@ On Tuesday my phone rang three times. All of them were work related
 * Second: A very nice very kind lady about a job fixing little devices very close to home, as a supply chain administrator. She asked for an interview the next day.
 * Third: A scam, a guy representing a company that a month ago didn't exist called [Ecmteamfive](https://ecmteamfive.info) and I know it doesn't exist because I put the company code on Companies House and [as you can see](https://beta.companieshouse.gov.uk/company/11106080/filing-history) they have been in existence barely a month. To add more to the scam the interview was being held in 40 Liverpool Street, that's the address of a hotel. To me this is clearly the scam of Amway, Herbalife or the guaranteed job after a **paid** course. As the offer was as administrator I guess that some sort of Sage accountancy course.
 
-During and after those calls I kept applying, in fact I've barely done anything else this week than wake up and keep applying until I go to sleep.
+During and after those calls I kept applying, in fact I've barely done anything else this week than waking up and to keep applying until I went to sleep.
 
 ### So on Wednesday ###
 I went to the interview with the very nice lady. Her office was really cozy but strangely she did all the talking. You normally go to an interview to be....interviewed. In this occasion I was told the entire life-story of the company (her client) she wanted to send me. Like, to be sure I would like the job. I didn't quite understand what was happening. It was a really nice interview by the fact that I just had to sit and listen. But I felt I was left with more questions than answers that day. Such as:
@@ -30,4 +30,4 @@ The restaurant I was going to work as Assistant Accountant, for which I took the
 
 I've lowered my standards on applications to the lowest possible and I'm still unemployed.
 
-I don't know what else to do. 
+I don't know what else to do.

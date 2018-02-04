@@ -5,9 +5,9 @@ date: 2018-02-02 23:48:01 +0000
 categories: jobseeking
 published: true
 ---
-On Tuesday my phone rang three times. All of them were work related
-
 ![](/uploads/2018/02/04/funny-job-interview-comics-nathan-w-pyle-fb__700-png.jpg)
+
+On Tuesday my phone rang three times. All of them were work related
 
 * First: Recruiter about a job as a caretaker. She said "but you've been working in something else for a long time, can you describe me your tasks as a caretaker" and I told her my entire day routine. She didn't seem interested, she had already made her (narrow) with what she said. **How on Earth can anyone forget the tasks of a caretaker,** specially considering they aren't rocket science and require absolutely no special qualities, is a mystery to me. So...I don't think is my lost, I rather work with recruiters who know the jobs they are offering.
 * Second: A very nice very kind lady about a job fixing little devices very close to home, as a supply chain administrator. She asked for an interview the next day.

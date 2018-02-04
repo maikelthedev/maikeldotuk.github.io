@@ -1,14 +1,17 @@
 ---
 layout: posts
-title:  "8 hours playing sudokus"
-date:   2018-01-24 22:00:01 +0000
+title: 8 hours playing sudokus
+date: 2018-01-24 22:00:01 +0000
 categories: jobseeking project
 ---
+![](/uploads/2018/02/04/2769001erter.JPG)
+
 Imagine that you were paid for playing sudokus, they are all the same with only slighly variations and your career progression is simply to find different ways to play it or to do it faster.
 
 That is what a job in Software Development **as an employee** looks like.
 
 You're constrained in
+
 * The programming language you can use
 * The frameworks you can use.
 * The ideas that you have.

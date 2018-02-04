@@ -1,15 +1,17 @@
 ---
 layout: posts
-title:  "I can't sleep"
-date:   2018-01-27 1:00:01 +0000
+title: I can't sleep
+date: 2018-01-27 01:00:01 +0000
 categories: jobseeking
 published: true
 ---
+![](/uploads/2018/02/04/2769001.jpg)
+
 I feel I'm heading nowhere. I don't know what to do. I've done everything possible. Have I? I surely have. More accurately: **I've done everything that so far has come to my mind**
 
 The problem is that there's no reliable process to get a job. At the end of the day is as much an act of luck as it is of organisation.
 
-I'm adding to all the jobs in the CV a piece of data with the heading "How did I find it" that could help me find new ways now [..]. Well that's done now.
+I'm adding to all the jobs in the CV a piece of data with the heading "How did I find it" that could help me find new ways now \[..\]. Well that's done now.
 
 One of the things I haven't done is to carpet the city with my CV. Yes, the job offers online have my CV but not the businesses around my area. One of the reasons for this is because first I'll have to find them. Second one, I can't just send a generic CV. It has to be minimally tailored at least and this is also one of the slowest methods to find a job when you just need something stable to pay the bills. This is the right strategy when you are already in work but as a temp searching for something better. That is not my scenario.
 

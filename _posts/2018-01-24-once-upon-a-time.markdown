@@ -1,10 +1,13 @@
 ---
 layout: posts
-title:  "Once Upon a Time"
-date:   2018-01-24 18:00:01 +0000
+title: Once Upon a Time
+date: 2018-01-24 18:00:01 +0000
 categories: jobseeking project
 ---
+![](/uploads/2018/02/04/jekyll-logo.png)
+
 ## So, what is this?
+
 This is a blog, created in [Jekyll](https://jekyllrb.com/) a simple static page creator for blogs that does not require a database. I didn't know how to use it, never heard of it, until two hours ago.
 
 At around 3pm today I started a search about blogging platforms, I'm already aware and knowledgeable of [Wordpress](https://wordpress.org/download/) (I had a self-hosted blog for about 7 years) and [Ghost](https://ghost.org/) so I wanted a bit of a challenge.
@@ -32,36 +35,40 @@ What I want to do is to use my knowledge in **freelance** jobs on my spare time 
 ## What have you done in the past?
 
 I am interested in many sort of jobs, I've been:
-- Estate Agency Coordinator
-- Cleaner (yes, cleaner, and worse, enjoyed it).
-- Shift Manager for a gay sauna.
-- Call centre agent (Rentalcars, Natwest Mortgages, Orange).
-- Caretaker for one of London's councils.
-- IT Operator in a data centre for 2 banks.
-- IT Support for an European Union organism.
+
+* Estate Agency Coordinator
+* Cleaner (yes, cleaner, and worse, enjoyed it).
+* Shift Manager for a gay sauna.
+* Call centre agent (Rentalcars, Natwest Mortgages, Orange).
+* Caretaker for one of London's councils.
+* IT Operator in a data centre for 2 banks.
+* IT Support for an European Union organism.
 
 The list never ends and that's not counting what I've done as freelancer, currently I keep all the bills paid by editing videos.
 
 ## What do you really want to do now?
 
-I want to work in an office setting because I enjoy excelling at what I do. It keeps me going. I type above 90 words per minute and I automate almost everything I do with a computer. Using this knowledge I usually stand out in office jobs that require the user of a computer. I don't want to try more roles, I want to grow roots in a company. My interest are two-fold, on one side you've got what I really want to do as an *employee* and on the other side what I want to do on my spare time *freelancing*.
+I want to work in an office setting because I enjoy excelling at what I do. It keeps me going. I type above 90 words per minute and I automate almost everything I do with a computer. Using this knowledge I usually stand out in office jobs that require the user of a computer. I don't want to try more roles, I want to grow roots in a company. My interest are two-fold, on one side you've got what I really want to do as an _employee_ and on the other side what I want to do on my spare time _freelancing_.
 
 As an employee I look for stability, as a freelancer I look for fun.
 
 ### As an employee:
-Stability and long-term are a must so I'm looking for roles of the type:
-- Data Entry / Typist.
-- Administrator Assistant
-- Accountant Assistant
 
+Stability and long-term are a must so I'm looking for roles of the type:
+
+* Data Entry / Typist.
+* Administrator Assistant
+* Accountant Assistant
 
 ### As freelancer:
+
 The main reason I don't want to try being a Software Developer as a career goal is because I've got too many interests. These are the things I can do.
-- NativeScript a programmer. This is a platform that allows you to design apps that are cross-platform compatible iOS and Android.
-- Angular developer.
-- Full stack javascript developer.
-- Web Scraper with Python and Scrapy.
-- Front-end Web Developer.
-As you see this covers too many disciplines and evolves with time, reason for which I wouldn't ever enjoy being prisoner of a framework and programming language for any company. I rather do eventual contracted jobs so I can move on after I finish.
+
+* NativeScript a programmer. This is a platform that allows you to design apps that are cross-platform compatible iOS and Android.
+* Angular developer.
+* Full stack javascript developer.
+* Web Scraper with Python and Scrapy.
+* Front-end Web Developer.
+  As you see this covers too many disciplines and evolves with time, reason for which I wouldn't ever enjoy being prisoner of a framework and programming language for any company. I rather do eventual contracted jobs so I can move on after I finish.
 
 Feel free to navigate and explore this brand new blog and raise any questions to the email below shall you wish to ask me anything. I might implement later a commenting feature.

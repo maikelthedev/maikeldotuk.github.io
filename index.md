@@ -6,8 +6,8 @@
 {% for post in site.posts %}
 <div style="float:right; margin-top: 10px;">
   <small>{{ post.date | date: '%A, %-d %B %Y' }}</small></div>
-  <h2><a style="text-decoration:none;" href="{{ post.url }}">> {{ post.title }}</a></h2>
+  <h2><a style="text-decoration:none;" href="{{ post.url }}">> {{ post.title }}
 
-  {{ post.excerpt }}
+{{ post.excerpt }}</a></h2>
 {% endfor %}
 ---

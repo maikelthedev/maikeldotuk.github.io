@@ -5,6 +5,8 @@ date: 2018-02-10 00:00:00 +0000
 categories:
 - theproject
 ---
+![](/uploads/2018/02/10/shutterstock_264156308-e1431115197432.jpg)
+
 I have started now the Open University end-of-degree project, I can't carry on postponing it until I find a job and now is the weekend so I'm free to study.
 
 This is the first post about the project, they all will have the tag "theproject" so I can filter them quickly.
@@ -23,13 +25,13 @@ Next post will be about how my research is going.
 
 I've started by adding a "Categories" page as you see above by creating a page with this code.
 {% raw %}
-    <div id="archives">
-    {% for category in site.categories %}
-      <div class="archive-group">
-        {% capture category_name %}{{ category | first }}{% endcapture %}
-        <div id="#{{ category_name | slugize }}"></div>
-        <p></p>
-    
+<div id="archives">
+{% for category in site.categories %}
+<div class="archive-group">
+{% capture category_name %}{{ category | first }}{% endcapture %}
+<div id="#{{ category_name | slugize }}"></div>
+<p></p>
+
         <h3 class="category-head">{{ category_name }}</h3>
         <a name="{{ category_name | slugize }}"></a>
         {% for post in site.categories[category_name] %}
@@ -40,5 +42,6 @@ I've started by adding a "Categories" page as you see above by creating a page w
       </div>
     {% endfor %}
     </div>
+
 {% endraw %}
 Now I am going to carry on with TMA02 of TM354 (a software development module) and tomorrow back to the project.

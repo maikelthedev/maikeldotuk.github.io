@@ -2,7 +2,8 @@
 title: The Project starts now
 layout: posts
 date: 2018-02-10 00:00:00 +0000
-categories: []
+categories:
+- theproject
 ---
 I have started now the Open University end-of-degree project, I can't carry on postponing it until I find a job and now is the weekend so I'm free to study.
 

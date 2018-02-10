@@ -2,7 +2,7 @@
 layout: posts
 title: Once Upon a Time
 date: 2018-01-24 18:00:01 +0000
-categories: jobseeking project
+categories: jobseeking
 ---
 ![](/uploads/2018/02/04/jekyll-logo.png)
 

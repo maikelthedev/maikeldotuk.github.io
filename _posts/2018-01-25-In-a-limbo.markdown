@@ -2,7 +2,7 @@
 layout: posts
 title: In a limbo
 date: 2018-01-25 00:00:01 +0000
-categories: jobseeking project
+categories: jobseeking
 ---
 ## ![](/uploads/2018/02/04/Tick-Tock-Blog.jpg)Context is everything
 

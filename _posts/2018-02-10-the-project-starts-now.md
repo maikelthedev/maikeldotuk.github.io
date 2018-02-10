@@ -23,25 +23,8 @@ This is a gantt chart of my project outline. It's amazing to think that in 214 d
 
 Next post will be about how my research is going.
 
-I've started by adding a "Categories" page as you see above by creating a page with this code.
-{% raw %}
-<div id="archives">
-{% for category in site.categories %}
-<div class="archive-group">
-{% capture category_name %}{{ category | first }}{% endcapture %}
-<div id="#{{ category_name | slugize }}"></div>
-<p></p>
+I've started by adding a "Categories" page as you see above by creating a page with the code on this other one:
 
-        <h3 class="category-head">{{ category_name }}</h3>
-        <a name="{{ category_name | slugize }}"></a>
-        {% for post in site.categories[category_name] %}
-        <article class="archive-item">
-          <h4><li style="list-style-type:square"><a style="text-decoration: none" href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a> <small>{{ post.date | date: '%A, %-d %B %Y' }}</small></li></h4>
-        </article>
-        {% endfor %}
-      </div>
-    {% endfor %}
-    </div>
+[https://blog.webjeda.com/jekyll-categories/](https://blog.webjeda.com/jekyll-categories/ "https://blog.webjeda.com/jekyll-categories/")
 
-{% endraw %}
 Now I am going to carry on with TMA02 of TM354 (a software development module) and tomorrow back to the project.

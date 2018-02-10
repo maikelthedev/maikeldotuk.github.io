@@ -22,7 +22,7 @@ This is a gantt chart of my project outline. It's amazing to think that in 214 d
 Next post will be about how my research is going.
 
 I've started by adding a "Categories" page as you see above by creating a page with this code.
-
+{% raw %}
     <div id="archives">
     {% for category in site.categories %}
       <div class="archive-group">
@@ -40,5 +40,5 @@ I've started by adding a "Categories" page as you see above by creating a page w
       </div>
     {% endfor %}
     </div>
-
-Now I am going to carry on with TMA02 of TM354 (a software development module) and tomorrow back to the project. 
+{% endraw %}
+Now I am going to carry on with TMA02 of TM354 (a software development module) and tomorrow back to the project.

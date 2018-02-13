@@ -28,3 +28,7 @@ Good, CloudFormation is also free
 Here some examples of code for CloudFormation
 
 [https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-whatis-concepts.html](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-whatis-concepts.html "https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-whatis-concepts.html")
+
+At the end is easier to buy this course and start from there. It's only 3 hours. 
+
+[https://www.udemy.com/aws-ec2-masterclass/learn/v4/overview](https://www.udemy.com/aws-ec2-masterclass/learn/v4/overview "https://www.udemy.com/aws-ec2-masterclass/learn/v4/overview")

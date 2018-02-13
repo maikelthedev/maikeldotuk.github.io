@@ -87,3 +87,5 @@ It could be handy if I could convert my instance of maikel.uk into a nano one so
 So far I know I'll need an EC2 instance to run node, a webserver, and the page. But it could be done with just S3 if I'm using only Angular. The problem is whether I need to upload files. If I do then I might need a full server. If I don't then S3 suffices but I'll need multiple DBs to connect to. 
 
 If the site is in Angular, which is my intention, all the job is on the client side, the server would do very little. Or maybe not, because I'll need a REST API since the website cannot comunicate directly to the DB for security reasons. 
+
+Tomorrow I'll continue with AMI images. 

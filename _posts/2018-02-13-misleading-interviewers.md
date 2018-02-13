@@ -23,7 +23,7 @@ Last Thursday I had another one for a full-time caretaker job in Acton, as soon 
 
 Interview, last Friday. Popular place of Mexican food in Park Royal (that's as far as I'd go without naming them). Offered full-time employment over the phone. Salary negotiable. Went to the interview, pay is 7.50 per hour...hours aren't set on stone, always evenings "until there are no more customers"....zero hours contract basically. How on Earth do I sign a contract for a flat with that lack of job security, let alone that kind of wage ?
 
-Today, I had a Resourcerer calling me to do this job, I won't hide the name of the company on this occasion. Here is the [link](https://www.cv-library.co.uk/job/207352593/Screen-Print-Assistants)
+Today, I had a Resourcerer calling me to do this job, I won't hide the name of the company on this occasion. Here is the [link](https://www.cv-library.co.uk/job/207352593/Screen-Print-Assistants) to the vacancy. 
 
 She tells me I am too far from Hayes..........This is how far I am from Hayes. 
 

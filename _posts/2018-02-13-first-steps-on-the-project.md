@@ -43,7 +43,7 @@ If in need of more (a.k.a: CloudFormation) I can buy another course for it.
 
 Remember that this is only part of the research, not the cloud creation. All I'm researching is the feasibility and gathering instructions, once I need to create it I'll go back to this information. I'll have a look around the material to have a clearer picture, especially considering creating the cloud image map, which is where an implementation should be planned. But I won't really create the cloud until later.
 
-I will have to justify my choices too. In here my choice for the Udemy course is becaue an introductory course always gives you more information than you require but groups them nicely so you can expand using the documentation.
+I will have to justify my choices too. In here my choice for the Udemy course is because an introductory course always gives you more information than you require but groups them nicely so you can expand using the documentation.
 
 With the documenation alone you don't know where to begin, while Udemy course is sequential.
 

@@ -37,7 +37,7 @@ At the end is easier to buy this course and start from there. It's only 3 hours.
 
 ## Conclussions
 
-To make an elastic cloud with Amazon I need an Elastic Load Balancer, which means I've got to learn how to configure it. For this I've bought the udemy course that explains it. The course has been 8.94 pounds.
+To make an elastic cloud with Amazon I need an Elastic Load Balancer, which means I've got to learn how to configure it. For this I've bought the udemy course that explains it. The course has been 8.94 pounds because I pay in dollars (US account through VPN). 
 
 If in need of more (a.k.a: CloudFormation) I can buy another course for it.
 

@@ -15,7 +15,7 @@ I had this interviewer (picture below) who sent me this email after I applied fo
 
 ## Now, here comes the fun.
 
-After taking the time to prepare for the interview, paying the tube (which is **not cheap**) to go there I discovered that there are no vacancies for either receptionist, nor shift manager. Only for full-time cleaner 4pm to midnight Monday to Friday for 8 pounds an hour. The email clearly says the opposite.
+After taking the time to prepare for the interview, paying the tube fare (which is **not cheap**) to go there, I discovered that there are no vacancies for either receptionist, nor shift manager. Only for full-time cleaner 4pm to midnight Monday to Friday for 8 pounds an hour. The email, as you clearly see, says the opposite.
 
 Last Thursday I had another one for a full-time caretaker job in Acton, as soon as I was in the interview I was offered to start immediately. Full time job, 9.75 pounds an hour. Here comes the magic part: **the contract is for just one week.** Yep, that literally means I would have started this Monday, finished this Friday, just to cover someone's lack of organisation with someone else's holidays and that's it. No security, no full-time employment, nothing.
 
@@ -23,6 +23,6 @@ Last Thursday I had another one for a full-time caretaker job in Acton, as soon 
 
 Interview, last Friday. Popular place of Mexican food in Park Royal (that's as far as I'd go without naming them). Offered full-time employment over the phone. Salary negotiable. Went to the interview, pay is 7.50 per hour...hours aren't set on stone, always evenings "until there are no more customers"....zero hours contract basically. How on Earth do I sign a contract for a flat with that lack of job security, let alone that kind of wage ?
 
-This is what London's job market has become.
+**This is what London's job market has become.**
 
 No comments needed....

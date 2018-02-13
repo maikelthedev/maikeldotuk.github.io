@@ -63,3 +63,21 @@ For further reference this is video 12 in here
 [https://www.udemy.com/aws-ec2-masterclass/learn/v4/t/lecture/9197210?start=0](https://www.udemy.com/aws-ec2-masterclass/learn/v4/t/lecture/9197210?start=0 "https://www.udemy.com/aws-ec2-masterclass/learn/v4/t/lecture/9197210?start=0")
 
 Something that worried me was prices. Since I'm already running 24/7 my own website I was wondering how to do this and the project without additional costs. I've learn a non-running instance costs nothing so all I've got to do is to shutdown my website when I'm testing for the project for it to cost zero. 
+
+I've also learnt how to check the logs which is useful to see how these commands run. 
+
+Lecture 13 contains the prices which will be part of the Project consideration too. 
+
+[https://www.udemy.com/aws-ec2-masterclass/learn/v4/t/lecture/9197212?start=0](https://www.udemy.com/aws-ec2-masterclass/learn/v4/t/lecture/9197212?start=0 "https://www.udemy.com/aws-ec2-masterclass/learn/v4/t/lecture/9197212?start=0")
+
+Remember to check how much is an instance per month as that would be the case when doing the math with 500 users for example. 
+
+## Beware that bootstrap script
+
+It's only run the first time the instance is run. Not every time that is restarted. 
+
+Beware you don't pay for an instance that is stopped but you do for the EBS attached. 
+
+I need to find a way to run this commands automatically whenever it is started, not just the first time. 
+
+It could be handy if I could convert my instance of maikel.uk into a nano one so I could run two at once without having to disconnect this one first. 

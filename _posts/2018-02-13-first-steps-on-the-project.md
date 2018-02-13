@@ -3,7 +3,7 @@ title: 'First steps on the project: Auto scaling'
 layout: posts
 categories:
 - theproject
-date: 2018-02-10 00:00:00 +0000
+date: 2018-02-13 19:32:05 +0000
 ---
 ## To add on TMA01
 

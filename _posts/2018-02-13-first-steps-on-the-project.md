@@ -55,3 +55,11 @@ I've been watching the videos and finished the entire Introduction and EC2 Basic
 It was mostly a refresher everything is too basic so far, but I learn how to add user data on the start of a machine. Something that I haven't done in [www.maikel.uk ](www.maikel.uk  "www.maikel.uk ")since I manually SSH into it and start the web servers (and MySQL, and node, etc) with bash commands. 
 
 With this, that bit can be automatised. 
+
+The commands are run with admin privileges on Amazon AMI (so no sudo su needed). 
+
+For further reference this is video 12 in here
+
+[https://www.udemy.com/aws-ec2-masterclass/learn/v4/t/lecture/9197210?start=0](https://www.udemy.com/aws-ec2-masterclass/learn/v4/t/lecture/9197210?start=0 "https://www.udemy.com/aws-ec2-masterclass/learn/v4/t/lecture/9197210?start=0")
+
+Something that worried me was prices. Since I'm already running 24/7 my own website I was wondering how to do this and the project without additional costs. I've learn a non-running instance costs nothing so all I've got to do is to shutdown my website when I'm testing for the project for it to cost zero. 

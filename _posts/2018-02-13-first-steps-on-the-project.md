@@ -1,5 +1,5 @@
 ---
-title: First steps on the project
+title: 'First steps on the project: Auto scaling'
 layout: posts
 categories:
 - theproject

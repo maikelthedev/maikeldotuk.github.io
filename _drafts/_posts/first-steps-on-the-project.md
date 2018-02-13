@@ -7,6 +7,8 @@ date: 2018-02-10 00:00:00 +0000
 ---
 ## To add on TMA01
 
+![](/uploads/2018/02/13/as-basic-diagram.png)
+
 Forgot to mention any connectivity through a Rest API. The project needs to connect to one otherwise it wouldn't do enough of TM352 stuff.
 
 Right, today I'm checking this
@@ -44,3 +46,5 @@ Remember that this is only part of the research, not the cloud creation. All I'm
 I will have to justify my choices too. In here my choice for the Udemy course is becaue an introductory course always gives you more information than you require but groups them nicely so you can expand using the documentation. 
 
 With the documenation alone you don't know where to begin, while Udemy course is sequential. 
+
+By the way I'm following carefully my own Gantt chart for the project. Either way the most research that I do now, the better later. 

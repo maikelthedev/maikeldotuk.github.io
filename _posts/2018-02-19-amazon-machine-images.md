@@ -44,3 +44,21 @@ Factors:
 Video 22 tells you how to monitor the CPU usage from the console.
 
 To be continued this evening...
+
+### Continuing
+
+Back from working in the council now I can continue. 
+
+IO is key for database applications. Consider it when choosing where to store the MongoDB instance. 
+
+Bunrstable instances are the T2. If you choose T2 you might have to change to T2 Unlimited (video 29) because otherwise it'll be weird for an autoscalable system. 
+
+### Network and Security
+
+I'm trying to get rid of the entire course today so moving onto this section.
+
+Keep a separated security group for SSH instances. (video 30). You need to choose how are you designing the IP addresses of your cloud architecture .
+
+CIDR are usueful to set HTTP rules for entire networks, see picture. You'll need this for autoscaling. 
+
+![](/uploads/2018/02/19/entirenetworks.JPG)

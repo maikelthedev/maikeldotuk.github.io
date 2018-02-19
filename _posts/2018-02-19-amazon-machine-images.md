@@ -3,7 +3,7 @@ title: Amazon Machine Images
 layout: posts
 categories:
 - theproject
-date: 2018-02-19 00:00:00 +0000
+date: 2018-02-19 12:30:49 +0000
 ---
 ![](/uploads/2018/02/19/debian-cloud-building-the-debian-amis-24-638.jpg)
 

@@ -64,3 +64,7 @@ CIDR are usueful to set HTTP rules for entire networks, see picture. You'll need
 ![](/uploads/2018/02/19/entirenetworks.JPG)
 
 Secondary button on the instance, then networking, then attach security groups. You can attach multiple to one instance. 
+
+You can use Elastic IPs to mask the failure of an instance. If you use a load balancer you only need one public IP. 
+
+Placements gruops Spreads are the ones you need (video 35)

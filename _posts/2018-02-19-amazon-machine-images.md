@@ -68,3 +68,21 @@ Secondary button on the instance, then networking, then attach security groups. 
 You can use Elastic IPs to mask the failure of an instance. If you use a load balancer you only need one public IP. 
 
 Placements gruops Spreads are the ones you need (video 35)
+
+### Elastic Load Balancing (ELB)
+
+Finally reached the section I wanted. Video 36 has a defintion of load balancer that you could use. This video mention about giving SSL termination to your website. At 3:19 it gives you the advantages of using the amazon one. 
+
+Use the DNS name for it or use anything.maikel.uk
+
+Note that load balancing distributes over **running** instances but doesn't start them or stop them, that is **autoscaling.** 
+
+You need to know what type of health check are you going to set up. 
+
+There are three types of load balancer, explain why you chose the one you choose (Application Load Balancer)
+
+### Auto Scaling Groups (ASG)
+
+With this you can scale in (remove instances) or scale out (add instances) to match your load. And automatially add them to a load balancer. 
+
+You could use MongoDB atlas por the DB. 

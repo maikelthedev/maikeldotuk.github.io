@@ -86,3 +86,5 @@ There are three types of load balancer, explain why you chose the one you choose
 With this you can scale in (remove instances) or scale out (add instances) to match your load. And automatially add them to a load balancer. 
 
 You could use MongoDB atlas por the DB. 
+
+More tomorrow...

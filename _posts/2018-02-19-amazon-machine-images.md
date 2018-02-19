@@ -57,8 +57,10 @@ Bunrstable instances are the T2. If you choose T2 you might have to change to T2
 
 I'm trying to get rid of the entire course today so moving onto this section.
 
-Keep a separated security group for SSH instances. (video 30). You need to choose how are you designing the IP addresses of your cloud architecture .
+Keep a separated security group for SSH instances. (video 30 and 32). You need to choose how are you designing the IP addresses of your cloud architecture .
 
 CIDR are usueful to set HTTP rules for entire networks, see picture. You'll need this for autoscaling. 
 
 ![](/uploads/2018/02/19/entirenetworks.JPG)
+
+Secondary button on the instance, then networking, then attach security groups. You can attach multiple to one instance. 

@@ -11,7 +11,7 @@ This should finish this week of project work but I'm a couple of days delayed so
 
 Before creating an autoscaling group you need a launch configuration. 
 
-ASG work with ELB (see previous post). 
+ASG works with ELB (see previous post). It can work by itself but the configuration is hideous without it. 
 
 Desired, min and max are important choices. 
 
@@ -23,9 +23,9 @@ Hmmm, he speaks about a load testing tool. This can be handy for this week too.
 
 The tab is scaling policies in Auto Scaling groups. Video 46 for this policies. 
 
-### Restful strees from Chrome
+### Restful Stress from Chrome
 
-This is the one he uses for it. You would need to justify your stress test though. 
+[This is the one ](https://chrome.google.com/webstore/detail/restful-stress/lljgneahfmgjmpglpbhmkangancgdgeb?hl=en)he uses for it. You would need to justify your stress test though. 
 
 You could just create the two policies same as he did but you'll need to justify why. 
 

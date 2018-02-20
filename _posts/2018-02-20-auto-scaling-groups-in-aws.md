@@ -5,7 +5,7 @@ categories:
 - theproject
 date: 2018-02-20 00:00:00 +0000
 ---
-![](/uploads/2018/02/20/aws-autoscaling.png)So finally we reach the point in which I learn about the entire subject of this week of the project: **How to do autoscaling.** 
+![](/uploads/2018/02/20/UC-7FICP0SI.jpg)So finally we reach the point in which I learn about the entire subject of this week of the project: **How to do autoscaling.** 
 
 This should finish this week of project work but I'm a couple of days delayed so I'll go straight after to the next subject of my research. 
 
@@ -59,3 +59,37 @@ Not sure if you would use any EBS volume for anything. I don't think so.
 EBS Snapshots live in S3. This is the useful bit to back up your EC2 machine. 
 
 EBS are quite cheap, for example the st1 is 0.045 dollars per month per GB of storage. Ideal to save backups of your DB. 
+
+The thing is that when you terminante an EC2 instance you lose all the data, you need to set up some form of permanent storage for the Mongo content or put the mongo content elsewhere. 
+
+### EC2 Reserved Instances
+
+I didn't know this was possible, but again i didn't need them because I'm on the free-tier. When it's over I might need them. The EC2 RI offer 75% discount. 
+
+They basically save costs. 
+
+This could be handy to use one for www.maikel.uk and keep the elasticity of the cloud architecture for everything else. 
+
+I could purchase a nano for 77 dollars 3 years and move maikel.uk there. That's incredibly cheap. Cheaper than buying Raspberry Pis and changing the SDCard as they break along. 
+
+This is only useful after I've run out of the free-tier but is' handy to know about it now. 
+
+### EC2 Spot instances
+
+They use the spare capcity of AWS cloud. The discount is 90%. Hmmm, then why to use the previous one?
+
+Amazon can terminate them at any time. Ok, that's the problem. You can't run critical jobs on they then. 
+
+Dedicated hosts are pointless for me. 
+
+And that's it I finsihed the course. What are my conclussion for the project this week?
+
+I will need:
+
+* An Autoscaling group
+* A security policy
+* An Elastic Load Balancer
+* A custom made AMI 
+* Find out where to keep the data which probably would be an external service (mongo)
+
+Right I've finished I've completed the entire course now and finished two weeks accidentally. 

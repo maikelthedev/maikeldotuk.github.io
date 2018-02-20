@@ -46,4 +46,4 @@ Video 16 is crucial becuase it shows the designer.
 
 YOu can't run custom scripts on cloud formation (but you can run custom AMIs...so)
 
-### F\*\*k it let's go to Section 3: Parametres
+### 

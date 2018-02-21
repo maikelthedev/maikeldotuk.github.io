@@ -7,7 +7,7 @@ categories:
 ---
 ![](/uploads/2018/02/21/responsibilities_of_property_managers.jpg)
 
-I am working, I am not working, I am not sure....**that is not good.** 
+I am working, I am not working, I am not sure....**that isn't good.** 
 
 Theoretically I have a 21 to 24 hours per week job as an administrative support to someone with a dissability. But I have no idea what are the hours that I will be officially working, I have very little idea of when am I paid. I haven't even signed a contract. Yet I'm already counting hours in a time-sheet. 
 
@@ -29,6 +29,8 @@ They both have no idea I'm applying for them both but, as I said, I am on a firs
 Then there are two more. The Aircraft Cleaner job that is so far doing the paperwork (checking references), while the School Caretaker job is not even bothering replying my follow-up emails. In this case I am not going to hide the name, is Tempest Resourcing. They are a dreadful agency that made me go all the way to central London with all my paperwork just to send me back home and fill up my mail inbox of SPAM for other vacancies and DBS checks that I do not have to pay for. Bad recruiters. 
 
 My personal choice would be the admin role. Solely based in the transferable skills it is by far the best. But it doesn't offer any stability and the job so far, it is 21 hours per week yet this week I am already doing less than that. When does the 21 hours per week start?
+
+The meter reader ones have no transferable skills, it's basically a dead-end job that pays the bill but doesn't improve a CV. 
 
 I've pushed today for a written contract. Hopefully I'll get it, I rather be optimistic. 
 

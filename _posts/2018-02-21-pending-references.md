@@ -47,3 +47,5 @@ Clearly N has no idea how my industry works. Every industry has a component of "
 I lack **senior** programming skills and in London there's no such thing as entry-level programming jobs. That is why I'm unemployable in the IT sector. 
 
 N doesn't realise of that and persists in that it is my fault not having an IT job already. Like if I could move a magic wand, meet the right people and change the way the job market works in London. 
+
+Anyway, regarding the proffesional contact, he seems interesting enough to meet him even when there's no job attached behind that meeting. 

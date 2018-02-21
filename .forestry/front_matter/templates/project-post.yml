@@ -1,6 +1,5 @@
 ---
 pages:
-- extra-cloudformation.md
 - _posts/extra-cloudformation-1.md
 - _posts/2018-02-20-auto-scaling-groups-in-aws.md
 - _posts/2018-02-19-amazon-machine-images.md

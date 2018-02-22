@@ -49,4 +49,6 @@ I'm going to take a leap of faith and trust this job is going to be for 2 months
 * Leads Genearator/Follower/chaser ?
 * Webmaster
 
-Because that's all the jobs that I would be doing with it. See why I want this job so badly, it's full of new skills and/or experience that I could **now** write down on the CV. With that it'll be easier to get into an admin, payroll jobs or even pursuing a career as P.A., which honestly sounds awesome.
+Because that's all the jobs that I would be doing with it. See why I want this job so badly, it's full of new skills and/or experience that I could **now** write down on the CV. With that it'll be easier to get into an admin, payroll jobs or even pursuing a career as P.A., which honestly sounds awesome. 
+
+That means I've got two months to do the best of this job and find the next one. 

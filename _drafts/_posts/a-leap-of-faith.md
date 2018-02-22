@@ -26,3 +26,27 @@ I went and I had an assigment of 89 pages of text that need to be proof-read and
 P (with whom I live) is going to be my guarantor since I've been living on an average of 500 pounds a month budget for almost two years since I started self-employment. I didn't need a penny more because I don't currently pay rent nor bills so I, instead, invested my time in having the highest possible marks on my degree. **Hence why I've got a guaranteed 2.1** expecting me by September. 
 
 Now that I'm going back to employment (without quitting the self-employed bit) it would be just stupid to lose that house so P is going to be my guarantor to give some peace of mind ot the estate agency. 
+
+I feel like a lion in a cage, in fact that is exactly my profile image on Whatsapp. I need to relieve some pressure:
+
+* The flat. 
+* The rent of the flat
+* The inestability of jobs
+* The job search that never ends
+* The project that needs continuous attention
+* The TMA that needs to be finished before the 28th. 
+
+Aw dear, dear, dear....yeap, like the text above this is like having a bloody pyramid on top of my shoulders, not a stone. 
+
+### But the job search morphs
+
+I'm going to take a leap of faith and trust this job is going to be for 2 months at 21 or more hours. So I'm going to put it on my CV as experience as:
+
+* Personal Assistance
+* Support Worker
+* Administrator
+* Payroll
+* Leads Genearator/Follower/chaser ?
+* Webmaster
+
+Because that's all the jobs that I would be doing with it. See why I want this job so badly, it's full of new skills and/or experience that I could **now** write down on the CV. 

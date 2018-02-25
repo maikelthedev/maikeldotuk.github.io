@@ -31,9 +31,7 @@ I couldn't bear the thought of going back to Manchester so I regretfully accepte
 
 I already said from the very beginning, "I do need a lot of space and I fear this won't be enough" and I was right. I don't have any private space in the entire flat. Kitchen and living room are a single room. The flat is beautiful but is just not big enough for two people.
 
-I value my independence and freedom above everything. If I feel like going to the Thames at midnight to just observe the water flowing I want to be able to do so. I haven't been able to do that ever since I move here. Everything I do is observed and commented upon. I hate being micro-managed on my own home.
-
-I feel he is invading my personal space. I feel I can't be alone when I need to. And that is why I'm moving out, because I just can't continue living here so constrained.
+I value my independence and freedom above everything. If I feel like going to the Thames at midnight to just observe the water flowing I want to be able to do so. I haven't been able to do that ever since I move here. 
 
 Some days I feel very creative and I just want to do my own thing, create a new website from scratch and dedicate the entire day to focus on it. When I do that I am quite passionate and I don't like interruptions, I turn my phone off, prepare a lot of coffee, forget to eat and get it all done.
 
@@ -45,4 +43,4 @@ I just can't wait to move out so ... I need to find an alternative for the time 
 
 ## A few minutes later...
 
-I've put up an add on a few places (Romeo, Facebook, etc) searching for a short-term bedroom to stay. 
+I've put up an add on a few places (Romeo, Facebook, etc) searching for a short-term bedroom to stay.

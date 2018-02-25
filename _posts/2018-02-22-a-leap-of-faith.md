@@ -15,19 +15,19 @@ But in the morning I went to E's place to clean up. We've arranged last week tha
 
 Once it is all done he transfers me the money. I trust the guy because he was my roommate long time ago when I used to live in Bayswater on a hostel for long-stays (Leinster House). That means we know each other very well, we literally lived in the same room (not flat but room) for almost a year. Now he's got a job in the City and I'm about to finish my degree so we've gone both far.
 
-On this ocassion though, there were 18 shirts + a pair of trousers so we had to stretch it to 3 hours and 45 minutes. 
+On this ocassion though, there were 18 shirts + a pair of trousers so we had to stretch it to 3 hours and 45 minutes.
 
 ### But then the phone beeped...
 
-And a text message showed up from my new boss, let's call him B (of boss). He asked me to go to the town hall to do 3 hours of admin tasks so there I went, after just half an hour to cook, eat, shower and change.
+And a text message showed up from my new boss, let's call him B (of boss). He asked me to go to, let's call it TH to do 3 hours of admin tasks so there I went, after just half an hour to cook, eat, shower and change.
 
 I went and I had an assigment of 89 pages of text that need to be proof-read and compared across an original. The text is written in a very simple English to be able to be read by people with cognitive or learning dissabilities (and other dissabilities) so I have also to check that it is well explained. It was a very interested read (I was loving it) yet I couldn't shake the though of the flat I'm moving in. The reason for it is that we've started all the paperwork. The agency sent me today a link to LetRef, an online tool for agencies to automate the process of checking references of tenants.
 
 ### The guarantor
 
-P (with whom I live) is going to be my guarantor since I've been living on an average of 500 pounds a month budget for almost two years since I started self-employment and that is not good for the estate agency. 
+P (with whom I live) is going to be my guarantor since I've been living on an average of 500 pounds a month budget for almost two years since I started self-employment and that is not good for the estate agency.
 
-I didn't need a penny more because I don't currently pay rent nor bills so I, instead, invested my time in having the highest possible marks on my degree. **Hence why I've got a guaranteed 2.1** expecting me by September.
+I didn't need a penny more because I don't currently pay rent nor bills so I, instead, invested my time in having the highest possible marks on my degree. **Hence why I've got a guaranteed 2.1** expecting me by September once I finish
 
 Now that I'm going back to employment (without quitting the self-employed bit) it would be just stupid to lose that house so P is going to be my guarantor to give some peace of mind to the estate agency.
 
@@ -53,6 +53,8 @@ I'm going to take a leap of faith and trust this job is going to be for 2 months
 * Leads Genearator/Follower/chaser ?
 * Webmaster
 
-Because that's all the jobs that I would be doing with B. See why I want this job so badly, it's full of new skills and/or experience that I could **now** write down on the CV. With that it'll be easier to get into an admin, payroll jobs or even pursuing a career as P.A., which honestly sounds awesome. It's so much better than a dead-end job because this provides a skillset. 
+Because that's all the jobs that I would be doing with B. See why I want this job so badly, it's full of new skills and/or experience that I could **now** write down on the CV. With that it'll be easier to get into an admin, payroll jobs or even pursuing a career as P.A., which honestly sounds awesome. It's so much better than a dead-end job because this provides a skillset.
 
 That means I've got two months to do the best of this job and find the next one.
+
+Best case scenario, I might not need a next one. 

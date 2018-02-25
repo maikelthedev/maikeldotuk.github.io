@@ -13,7 +13,7 @@ Theoretically I have a 21 to 24 hours per week job as an administrative support 
 
 I need some clarity but I can't have it until I've done the 3 parts of this job. It seems to involve three locations, one is one of the London borough's Town Hall. From there I would do admin duties. Such as proof-reading text that could be too much hassle for my boss, because I am not physically restricted.
 
-The right description would be a support worker for admin duties. I don't lift my boss from his wheelchair and put him to sleep as a support worker would do, I am instead his hands in front of a PC when he needs stuff to be done quicker or the workload requires it.
+The right description would be a support worker for admin duties. I just do office kind of work and payroll. 
 
 The second location is elsewhere and there I would do payroll tasks as I would be officially working for a payroll company.  
 The third location is his home as that's where he has the rest of the paperwork that requires doing. Also some IT tasks and the redoing of the company website, leaflets would be mine.
@@ -40,12 +40,12 @@ I honestly want to stop jobseeking immediately. I've got a lot to do university-
 
 ## Today
 
-I've got to see a proffesional contact. My friend N (let's leave it as 'N') has introduced me in the hope that he could tell me about any leads in my industry. 
+I've got to see a proffesional contact. My friend N (let's leave it as 'N') has introduced me in the hope that he could tell me about any leads in my industry.
 
-Clearly N has no idea how my industry works. Every industry has a component of "who you know", some of them have a stronger component of "what you know". If you've got serious programming skills you don't need to know anyone, recruiters will fight to get you a job. 
+Clearly N has no idea how my industry works. Every industry has a component of "who you know", some of them have a stronger component of "what you know". If you've got serious programming skills you don't need to know anyone, recruiters will fight to get you a job.
 
-I lack **senior** programming skills and in London there's no such thing as entry-level programming jobs. That is why I'm unemployable in the IT sector. 
+I lack **senior** programming skills and in London there's no such thing as entry-level programming jobs. That is why I'm unemployable in the IT sector.
 
-N doesn't realise of that and persists in that it is my fault not having an IT job already. Like if I could move a magic wand, meet the right people and change the way the job market works in London. 
+N doesn't realise of that and persists in that it is my fault not having an IT job already. Like if I could move a magic wand, meet the right people and change the way the job market works in London.
 
-Anyway, regarding the proffesional contact, he seems interesting enough to meet him even when there's no job attached behind that meeting. 
+Anyway, regarding the proffesional contact, he seems interesting enough to meet him even when there's no job attached behind that meeting.

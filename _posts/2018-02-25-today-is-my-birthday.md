@@ -23,7 +23,9 @@ I need to get out of here. Honestly.
 
 The paperwork for the new flat with my best friend is being processed. We've paid 300 pounds to the estate agency to start doing the new contract, it includes references and I hd to use my current landlord as a guarantor ...long story. 
 
-But I feel like a lion in a cage. I don't feel "at ease" in my current place. The truth is, my landlord is my partner. We've been together for 3 years. I didn't want to move in 3 years ago I was happy where I was, my room was bigger and solely mine but I was short of funds, he offered me to move in and it was either accepting the offer or moving back to the North West. 
+But I feel like a lion in a cage. I don't feel "at ease" in my current place. The truth is, my landlord is my partner. We've been together for 3 years. 
+
+I didn't want to move in, I was happy where I was, my room was bigger and solely mine but I was short of funds, he offered me to move in and it was either accepting the offer or moving back to the North West. 
 
 I couldn't bear the thought of going back to Manchester so I regretfully accepted. My degree was my top priority and I couldn't do anything that could hinder it. I just needed continuity, quick solutions, moving on so I could study. 
 
@@ -31,4 +33,10 @@ I already said from the very beginning, "I do need a lot of space and I fear thi
 
 I value my independence and freedom above everything. If I feel like going to the Thames at midnight to just observe the water flowing I want to be able to do so. I haven't been able to do that ever since I move here. Everything I do is observed and commented upon. I don't feel free and it has taken a **huge toll** on the relationship. 
 
-I don't feel the same about my partner. I feel his invading my personal space. I feel I can't be alone when I need to. 
+I don't feel the same about my partner. I feel he is invading my personal space. I feel I can't be alone when I need to. And that is why I'm moving out, because I just can't continue living here so constrained. 
+
+Some days I feel very creative and I just want to do my own thing, create a new website from scratch and dedicate the entire day to focus on it. When I do that I am quite passionate and I don't like interruptions, I turn my phone off, prepare a lot of coffee, forget to eat and get it all done. 
+
+Some other days I feel like a sponge, I feel I need to learn 100 different things before I can be able to wind down, so I want to focus on a book and read it cover to cover in a day, making notes and really getting the subject. 
+
+Either of those two cases I need my personal space, solitude to get it done. I haven't have that ever since I moved here. Especially since I'm much more creative/active during the evenings and that's the precise time I am not alone. I'm a night-owl. It's 1:17am right now for example. I normally sleep only 5 to 6 hours and that's enough for me. 

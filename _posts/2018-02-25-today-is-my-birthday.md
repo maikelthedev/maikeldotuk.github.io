@@ -42,3 +42,5 @@ Some other days I feel like a sponge, I feel I need to learn 100 different thing
 Either of those two cases I need my personal space, **solitude to get it done**. I haven't have that ever since I moved here. Especially since I'm much more creative/active during the evenings and that's the precise time I am not alone. I'm a night-owl. It's 1:17am right now for example. I normally sleep only 5 to 6 hours and that's enough for me.
 
 I just can't wait to move out so ... I need to find an alternative for the time from now until the 23rd. Maybe I should take a short term bedroom somewhere close.
+
+I've put up an add on a few places (Romeo, Facebook, etc) searching for a short-term bedroom to stay. 

@@ -43,4 +43,6 @@ Either of those two cases I need my personal space, **solitude to get it done**.
 
 I just can't wait to move out so ... I need to find an alternative for the time from now until the 23rd. Maybe I should take a short term bedroom somewhere close.
 
+## A few minutes later...
+
 I've put up an add on a few places (Romeo, Facebook, etc) searching for a short-term bedroom to stay. 

@@ -2,7 +2,7 @@
 title: Can this winter go away please?
 layout: posts
 categories:
-- theproject
+- routine
 date: 2018-02-28 00:00:00 +0000
 ---
 ![](/uploads/2018/02/28/DXJa-ZrW4AAb9l9.jpg)
@@ -34,12 +34,22 @@ I don't want to be programming _scared_ because my salary depends on it. I prefe
 
 ### Solitude
 
-I haven't seen one single member of my family in more than seven years. There are even new members and I don't even know their names because my sisters have had children. Do I hate my family? No, I don't. I'm just a lone wolf. I'm a strange person, I love solitude. I generally reduce my social life to a handful of people, sometimes even just to one person. No one can ever guess by seeing me, all my acquaintances believe I've got an incredibly busy social life. 
+I haven't seen one single member of my family in more than seven years. There are even new members and I don't even know their names because my sisters have had children. Do I hate my family? No, I don't. I'm just a lone wolf. I'm a strange person, I love solitude. I generally reduce my social life to a handful of people, sometimes even just to one person. No one can ever guess by seeing me, all my acquaintances believe I've got an incredibly busy social life. It couldn't be farther from the truth. 
 
 This need for solitude is the reason I left London on 2012 and moved to the North West (to come back on 2015), I was sick of never being alone. Yet, I was in very different circumstances, I could barely speak English, I was living in a room with 3 more guys on it (the bedroom, not the flat)....so I had literally no privacy for more than a year. 
 
 How did I deal with that coming from my own appartment in the city centre of Seville is a mystery. That is how much I was tired of living unchallenged in Spain. 
 
-This flat I'm moving to means **The World** to me. It means growing up unconstrained. Solitude makes my creativity limitless. The thought of having to wait 23 days more for it after 6 and a half years desperately in need of it just makes me anxious. I would only have peace of mind once the contract is signed. 
+This flat I'm moving to means **The World** to me. It means growing up unconstrained. Solitude makes my creativity limitless. The thought of having to wait 23 more days after 6 and a half years desperately in need of it just makes me anxious. I would only have peace of mind once the contract is signed. 
 
 I'm the kind of person who always expects the worse while keeps working to get the best. 
+
+I do need to redo my social life though. The Comp.Sci degree has isolated me and I don't like it. I've relayed too much in a friend who is now unavailable. I shouldn't have put all my eggs in the same basket. I do feel a bit lonely this winter. 
+
+### The project
+
+Now I can dedicate more time to the project but I'm tired today. I'm reading a book about it. Let me bring a picture of the book.
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=maikeldotuk-21&marketplace=amazon&region=GB&placement=0273721313&asins=0273721313&linkId=0636d9e7655788b0f22ea50e28584593&show_border=true&link_opens_in_new_window=true"></iframe>
+
+That is the book

@@ -50,7 +50,7 @@ I do need to redo my social life though. The Comp.Sci degree has isolated me and
 
 Now I can dedicate more time to the project but I'm tired today. I'm reading a book about it. Let me bring a picture of the book.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=maikeldotuk-21&marketplace=amazon&region=GB&placement=0273721313&asins=0273721313&linkId=0636d9e7655788b0f22ea50e28584593&show_border=true&link_opens_in_new_window=true"></iframe>
+![](/uploads/2018/02/28/3162718.jpg)
 
 That is the book. It says everything that I need to know regarding my project. It expands on the lacking information that the Open University has given me to do the project. I will have to use it as a reference though. 
 

@@ -34,10 +34,12 @@ I don't want to be programming _scared_ because my salary depends on it. I prefe
 
 ### Solitude
 
-I haven't seen one single member of my family in more than seven years. There are even new members and I don't even know their names. Do I hate my family? No, I don't. I'm just a lone wolf. I'm a strange person, I love solitude. I generally reduce my social life to a handful of people, sometimes even just to one person. 
+I haven't seen one single member of my family in more than seven years. There are even new members and I don't even know their names because my sisters have had children. Do I hate my family? No, I don't. I'm just a lone wolf. I'm a strange person, I love solitude. I generally reduce my social life to a handful of people, sometimes even just to one person. No one can ever guess by seeing me, all my acquaintances believe I've got an incredibly busy social life. 
 
 This need for solitude is the reason I left London on 2012 and moved to the North West (to come back on 2015), I was sick of never being alone. Yet, I was in very different circumstances, I could barely speak English, I was living in a room with 3 more guys on it (the bedroom, not the flat)....so I had literally no privacy for more than a year. 
 
 How did I deal with that coming from my own appartment in the city centre of Seville is a mystery. That is how much I was tired of living unchallenged in Spain. 
 
 This flat I'm moving to means **The World** to me. It means growing up unconstrained. Solitude makes my creativity limitless. The thought of having to wait 23 days more for it after 6 and a half years desperately in need of it just makes me anxious. I would only have peace of mind once the contract is signed. 
+
+I'm the kind of person who always expects the worse while keeps working to get the best. 

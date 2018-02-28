@@ -89,4 +89,4 @@ Both solutions are quite bad...
 
 Well, if I can't there's just one way I can do. Eat whatever my flatmate has on the fridge (he buys food for both) and never go out for fun, for a month. Since I can't meet people in this city without spending as it always lead to a coffee shop or a restaurant. 
 
-The tube will be paid with the cleaning but that's all. 
+The tube will be paid with the cleaning but that's all. One entire month of no expenses, no treats, no fun, no people. Is that even possible?

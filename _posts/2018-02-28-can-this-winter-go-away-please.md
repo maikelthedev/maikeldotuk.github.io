@@ -59,3 +59,24 @@ I've got the first TMA due on the 6th of March. I already have a draft, I only n
 I'm not sure at all I'm doing the right thing with my project. But I think the whole point is trying and learning from your errors, not succeeding the first time. 
 
 I read today a bunch of pages of the book and tomorrow I'll try to read a few more. This weekend I don't think I'll have to work for B so I can dedicate it at full to the project. 
+
+### About work
+
+It's just too early to form an opinion but today I felt incredibly stupid when I almost dump a tea cup on top of my boss. 
+
+As I said, supposedly on Friday my hours will be discussed and a contract signed. I've liked so far what I've done yet there's plenty of room of improvement in the way I do my own work. Therefore this job is challenging enough. But so far I'm just learning what's required from me and adapting to it. 
+
+The problem I'm having is not the hours, the contract, nor the tasks. The problem is being paid monthly, or at least, this first month that is the problem. 
+
+I literally have only 9 pounds left to survive on. Luckily enough I've been granted the student oyster card so moving freely in the tube around zones 2 and 3 will cost me just around 68 pounds a month. That card isn't coming until next week though. 
+
+Yesterday I paid 25 pounds of a travelcard for zones 2 and 3 so transport is paid until next week's Monday (included). 
+
+On the weekend, I'll clean E's place that is 40 pounds that should cover the student oyster (if it comes early enough) travelcard and leave around 20 pounds left for the rest of the week. I can't live with that money. 
+
+From the freelance video editing I'm expecting around 200 pounds but that could perfectly come as late as at the end of March. I edited the sound of a video yesterday evening and night for which I made 125 pounds (half a day of video editing) and I selected cameras, tripods, etc from Amazon for the college, for which I made 75 pounds, finder's fee. 
+
+I need around 300 pounds to live on the entire month, around 10 pounds per day. The solutions I've thought are:
+
+* Use the credit card (bad bad idea). 
+* Get a second cash-in-hand job. 

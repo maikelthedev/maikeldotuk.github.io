@@ -24,4 +24,20 @@ Is my survival instinct. It can override anything. As such:
 
 Are my two main priorities. 
 
-This
+This house, this contract that I am signing as it not attached to a friendship, nor a relationship, nor a cleaning-to-save-in-rent aggreement is a major step forward. 
+
+I've usually managed to get my rent extremely cheap but then in exchange the landlord treated me as a guest and not as a tenant. If you want the full benefits of being a tenant and feel at home in your rented home, you need to pay the full price. 
+
+Then on the other side, jobs. I'm finishing this degree to guarantee an income. I honestly don't want to work in IT full time. I prefer admin jobs like the one I have now. Software Development is something I like sporadically and I want to pursue that path as a freelance business aside of a main full time admin job. 
+
+I don't want to be programming _scared_ because my salary depends on it. I prefer a safe income with an admin role and then program with a clear concience. 
+
+### Solitude
+
+I haven't seen one single member of my family in more than seven years. There are even new members and I don't even know their names. Do I hate my family? No, I don't. I'm just a lone wolf. I'm a strange person, I love solitude. I generally reduce my social life to a handful of people, sometimes even just to one person. 
+
+This need for solitude is the reason I left London on 2012 and moved to the North West (to come back on 2015), I was sick of never being alone. Yet, I was in very different circumstances, I could barely speak English, I was living in a room with 3 more guys on it (the bedroom, not the flat)....so I had literally no privacy for more than a year. 
+
+How did I deal with that coming from my own appartment in the city centre of Seville is a mystery. That is how much I was tired of living unchallenged in Spain. 
+
+This flat I'm moving to means **The World** to me. It means growing up unconstrained. Solitude makes my creativity limitless. The thought of having to wait 23 days more for it after 6 and a half years desperately in need of it just makes me anxious. I would only have peace of mind once the contract is signed. 

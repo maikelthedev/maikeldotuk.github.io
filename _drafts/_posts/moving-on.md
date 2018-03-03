@@ -21,3 +21,9 @@ I want to feel I am the best at my job, I want to feel I am making a difference 
 I want a new laptop but I don't want to pay it financed. Nor do I want a screen smaller than 17 inches. 
 
 I want pijama parties in my new flat every Friday evening. I want a better social life. I want to connect with people related to the software development world, especially DevOps, full stack javascript connoisseurs, and people that in general know how to get some self-employment skills (my boss knows this last one though). 
+
+I want to know if I can use Bark.com to give quotes for software development projects. 
+
+I need a bit more of organisation though, I feel life is spinning a bit out of control lately. I suppose is the fact that I have no savings, I feel very very uncomfortable when I don't have any savings. All the money I have is for the deposit and first month of the flat. I feel save when I've got 2000 pounds in my bank account and growing. I'm not a expender, I'm a saver.
+
+ 

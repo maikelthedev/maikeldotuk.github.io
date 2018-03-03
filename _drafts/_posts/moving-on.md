@@ -26,4 +26,4 @@ I want to know if I can use Bark.com to give quotes for software development pro
 
 I need a bit more of organisation though, I feel life is spinning a bit out of control lately. I suppose is the fact that I have no savings, I feel very very uncomfortable when I don't have any savings. All the money I have is for the deposit and first month of the flat. I feel save when I've got 2000 pounds in my bank account and growing. I'm not a expender, I'm a saver.
 
- 
+I have barely slept today, my head is racing, I can't concentrate in anything. I just want to switch off my brain but I just can't. It's just awful. 

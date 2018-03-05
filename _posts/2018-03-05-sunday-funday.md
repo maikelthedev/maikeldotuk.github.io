@@ -20,4 +20,4 @@ Also while I can erase memories what I can't do is to target just the bad ones. 
 
 Sometimes I fear I'm becoming hollow, all that is left is the shell. **I want to feel alive.** 
 
-I want my life to get better. 
+I want my life to get better. I want Sundays to stop being painful. I want economic certainty and a stable job, I want a network of friends who aren't just passing by, I want so many things to get better. I won't stop until they are. 

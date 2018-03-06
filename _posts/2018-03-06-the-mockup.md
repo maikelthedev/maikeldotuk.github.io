@@ -23,5 +23,4 @@ See Application
 
 ![](/uploads/2018/03/06/See Application.png)
 
-That is so far the mockup of the site. 
-
+That is so until I decide to change it or improve it. 

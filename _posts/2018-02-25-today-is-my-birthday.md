@@ -1,8 +1,7 @@
 ---
 title: Today is my birthday
 layout: posts
-categories:
-- theproject
+categories: []
 date: 2018-02-25 00:00:00 +0000
 ---
 ![](/uploads/2018/02/25/happy_birthday_to_me_pinback_button-r08ee59c90d2445f2acdd5cf645a58d6d_k94rf_324.jpg)

@@ -5,6 +5,8 @@ categories:
 - theproject
 date: 2018-03-11 00:00:00 +0000
 ---
+![](/uploads/2018/03/11/awseditor3.png)
+
 It's 11:28am on Sunday, today I've got to finish the cloud image map I started. The main issue to decide on (and justify) is the location of the database.
 
 I've got to check on TMA01 to see what I've decided so far.

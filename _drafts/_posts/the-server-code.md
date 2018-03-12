@@ -136,3 +136,20 @@ So, without getting the refresher in Mongo I can finally already start writing t
 Spies can built in with Expect but they aren't needed for my project. 
 
 This link in StackOverflow puts an example of testing a RestAPI and therefore MongoDB by extension ([reference](https://stackoverflow.com/questions/47570972/testing-mongodb-database-with-mocha-and-request)).
+
+Ok, so now I've got all the testing and express knowledge refreshed these are the next steps:
+
+1. Write the test cases (first as comments)
+2. Write the actual test cases, this time for real. 
+3. Create the database to match the test cases. 
+4. Fix all the tests. 
+
+Once step 4 is done I'll have all the test finished and the back-end up and running. 
+
+### Mongo before tests. 
+
+It would make sense for me to start instead of by the test cases, by refreshing the Mongo knowledge. 
+
+First, let's create the final DDBB in Mongo Atlas. No point to delay that to later. 
+
+Notice the password on MongoDB atlas, at the end has an exclamation (!) because it was a requirement. 

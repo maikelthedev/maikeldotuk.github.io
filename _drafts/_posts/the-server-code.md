@@ -224,4 +224,6 @@ One of the option of mongoose appart from trim, minlenght, etc, is "unique". To 
 
 Tokens is an advantage from Mongo that you don't have in other DDBB. Note that when you use fields with unique you need to drop the database and restart it with the fields being unique otherwise it won't work. 
 
-Right, I'm going to stop for today in video 89 and I should start from the beginning of that video the next day I'm on this. I've been doing this since this morning, it's now 10:12pm. 
+Right, I'm going to stop for today in video 89 and I should start from the beginning of that video the next day I'm on this. I've been doing this since this morning, it's now 10:12pm. That is now 13 hours doing this. I know is more than one week worth of project but that's precisely the way I'm doing it anyway. In a couple of days I get rid of a couple of weeks worth of work. I work better **at bursts** of work. 
+
+The next time I'm back I shall finish this section and move onto the actual code, so I'm going to publish this post instead an continue in the next one with what is left of authentication, security and the actual test code. 

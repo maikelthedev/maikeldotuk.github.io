@@ -55,4 +55,6 @@ Request or req is one of the most important objects to access thorugh middleware
 
 Note that by default node doesn't come with all locales and you need to install them and set an environment variable ([reference](https://github.com/unicode-org/full-icu-npm)). 
 
-Using fs.appendFile a server log can easily be saved. 
+Using fs.appendFile a server log can easily be saved of each connection. 
+
+Middleware will be used to check authentication for example. 

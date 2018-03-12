@@ -132,3 +132,7 @@ So, the things to remember are:
 * To use describe to group the test cases. 
 
 So, without getting the refresher in Mongo I can finally already start writing test code. 
+
+Spies can built in with Expect but they aren't needed for my project. 
+
+This link in StackOverflow puts an example of testing a RestAPI and therefore MongoDB by extension ([reference](https://stackoverflow.com/questions/47570972/testing-mongodb-database-with-mocha-and-request)).

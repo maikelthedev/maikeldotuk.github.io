@@ -213,3 +213,15 @@ It goes inside package.json
 I forgot about the security and the user login. I can't create the Rest API without users loging in. This bit is new, I haven't ever found out how to do this. The login in maikel.uk is quite simple as I'm the only user.
 
 This is all going to be about hashing passwords, creating the user model, etc. 
+
+* Video 88: Passwords are sent in plain text (so use SSL), that is a design decision then. You could do it differently using Angular. 
+
+Tokens is the weird property.  Access property auth. Not sure what he's trying to do. Then the actual token value and it'll be a strong cryptographically secure string. 
+
+One of the option of mongoose appart from trim, minlenght, etc, is "unique". To ensure some detail is unique. 
+
+* Video 88 again at minute 4:53 tells you how to set up custom validators for mongo. It also mentions a library to validate emails called validator. 
+
+Tokens is an advantage from Mongo that you don't have in other DDBB. Note that when you use fields with unique you need to drop the database and restart it with the fields being unique otherwise it won't work. 
+
+Right, I'm going to stop for today in video 89 and I should start from the beginning of that video the next day I'm on this. I've been doing this since this morning, it's now 10:12pm. 

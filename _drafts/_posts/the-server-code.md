@@ -129,27 +129,49 @@ So, the things to remember are:
 
 * to use SuperTest for Express applications.
 * To export whichever variable or object you'll require for the supertests.
-* To use describe to group the test cases. 
+* To use describe to group the test cases.
 
-So, without getting the refresher in Mongo I can finally already start writing test code. 
+So, without getting the refresher in Mongo I can finally already start writing test code.
 
-Spies can built in with Expect but they aren't needed for my project. 
+Spies can built in with Expect but they aren't needed for my project.
 
 This link in StackOverflow puts an example of testing a RestAPI and therefore MongoDB by extension ([reference](https://stackoverflow.com/questions/47570972/testing-mongodb-database-with-mocha-and-request)).
 
 Ok, so now I've got all the testing and express knowledge refreshed these are the next steps:
 
 1. Write the test cases (first as comments)
-2. Write the actual test cases, this time for real. 
-3. Create the database to match the test cases. 
-4. Fix all the tests. 
+2. Write the actual test cases, this time for real.
+3. Create the database to match the test cases.
+4. Fix all the tests.
 
-Once step 4 is done I'll have all the test finished and the back-end up and running. 
+Once step 4 is done I'll have all the test finished and the back-end up and running.
 
-### Mongo before tests. 
+### Mongo before tests.
 
-It would make sense for me to start instead of by the test cases, by refreshing the Mongo knowledge. 
+It would make sense for me to start instead of by the test cases, by refreshing the Mongo knowledge.
 
-First, let's create the final DDBB in Mongo Atlas. No point to delay that to later. 
+First, let's create the final DDBB in Mongo Atlas. No point to delay that to later.
 
-Notice the password on MongoDB atlas, at the end has an exclamation (!) because it was a requirement. 
+Notice the password on MongoDB atlas, at the end has an exclamation (!) because it was a requirement.
+
+Notice that the deployment to stay free has to be in eu-central-1 region. This might be challenging later. This has some interesting pricing
+
+![](/uploads/2018/03/12/cap01.PNG)
+
+![](/uploads/2018/03/12/Cap02.PNG)
+
+As you see costs can quickly escalate. But using the free version I pay nothing. Be aware there are no backups on this version so you'll have to justify that (maybe, simply you can't afford it but explain the option exist).
+
+![](/uploads/2018/03/12/Cap03.PNG)
+
+Now. It also tells you which IPs you want to accept. As I change locations and I'm testing from my PC I need to allow everyone. I can restrict this to the EIP of the server once I'm finished.
+
+![](/uploads/2018/03/12/Cap04.PNG)
+
+This is the window I'm left with. The control panel.
+
+![](/uploads/2018/03/12/Cap05.PNG)
+
+So I've created a DB named jtadb and a collection named jobapplications. I've done this from Mongo Compass ([reference](https://www.mongodb.com/download-center?filter=enterprise&utm_source=google&utm_campaign=EMEA_UK-IE_CorpEntOnly_Brand_Alpha_FM&utm_keyword=mongo%20compass&utm_device=c&utm_network=g&utm_medium=cpc&utm_creative=208920642215&utm_matchtype=e&_bt=208920642215&_bk=mongo%20compass&_bm=e&_bn=g&jmp=search&gclid=CjwKCAjwypjVBRANEiwAJAxlInvfecsHug-TEz4XWRVsIMuNfDMDl1unKxvNvTd7JQLAM99mpjVJKRoCT4sQAvD_BwE#compass)).
+
+Note on this library (Universrity of West Ealing) the port 21017 is capped so I had to use my mobile phone as hotspot to get access. 

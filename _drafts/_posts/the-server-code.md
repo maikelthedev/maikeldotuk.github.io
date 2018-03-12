@@ -130,3 +130,5 @@ So, the things to remember are:
 * to use SuperTest for Express applications.
 * To export whichever variable or object you'll require for the supertests.
 * To use describe to group the test cases. 
+
+So, without getting the refresher in Mongo I can finally already start writing test code. 

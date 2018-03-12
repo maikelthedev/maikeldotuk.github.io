@@ -174,4 +174,42 @@ This is the window I'm left with. The control panel.
 
 So I've created a DB named jtadb and a collection named jobapplications. I've done this from Mongo Compass ([reference](https://www.mongodb.com/download-center?filter=enterprise&utm_source=google&utm_campaign=EMEA_UK-IE_CorpEntOnly_Brand_Alpha_FM&utm_keyword=mongo%20compass&utm_device=c&utm_network=g&utm_medium=cpc&utm_creative=208920642215&utm_matchtype=e&_bt=208920642215&_bk=mongo%20compass&_bm=e&_bn=g&jmp=search&gclid=CjwKCAjwypjVBRANEiwAJAxlInvfecsHug-TEz4XWRVsIMuNfDMDl1unKxvNvTd7JQLAM99mpjVJKRoCT4sQAvD_BwE#compass)).
 
-Note on this library (Universrity of West Ealing) the port 21017 is capped so I had to use my mobile phone as hotspot to get access. 
+Note on this library (Universrity of West Ealing) the port 21017 is capped so I had to use my mobile phone as hotspot to get access.
+
+It's 15:48 and I'm still in the library. I've been here since 10am.
+
+Notice how to query an object ID you have to use
+
+    new ObjectID(theID)
+
+And then it works. Now is about using **Mongoose** which is an ORM (object relation mapping...no idea) link here ([reference](http://mongoosejs.com/))
+
+When you save with mongoose from a model it creates a __v variable that is just the version of the data (check video 70).
+
+* Video 71 is very important as it has all the validators of mongoose.
+
+When you add a default the data is added even when you don't require it.
+
+#### The (not so) final research before writing code.
+
+* Video 74 contains the test case I need.
+
+beforeEach put before all the cases runs something before the test cases run, like a fixture.
+
+* Video 80 even though it is for Heroku it tells you how to set environment variables for the port. So consider it. It also tells you how to change from local DB to deployment DB.
+* Video 81, adds up to v 80 on how to create enviornments in postman to use local or deployment API.
+* Video 86, finally talks about creating a test database.
+
+I still need to find out how to secure the data by user and that's something new, not a refresher.
+
+This is the key line to set NODE_ENV to test in both windows and unix
+
+    "test": "export NODE_ENV=test || SET \"NODE_ENV=test\" && mocha **test.js ",
+
+It goes inside package.json
+
+#### The **hopefully**  final research before writing code.
+
+I forgot about the security and the user login. I can't create the Rest API without users loging in. This bit is new, I haven't ever found out how to do this. The login in maikel.uk is quite simple as I'm the only user.
+
+This is all going to be about hashing passwords, creating the user model, etc. 

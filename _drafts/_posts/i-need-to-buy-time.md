@@ -13,3 +13,5 @@ I'm a bargain hunter so this took me the entire rest of the night actually. I di
 * I changed my own mobile phone contract from 15 pounds a month for 30gb of data I never use to 11 pounds a month for 8gb of data. 
 * As mentioned we paid the water, exactly 299 pounds, my share is 150. 
 * I checked all options and exception to reduce the council tax, the, **by far**, most expensive bill of all. And I didn't find any loophole or reason for a discount. That is a 1400 pound annual bill that needs to be paid. 700 pounds per head. 
+
+What I'm trying to do is to pay all the bills now so all my flat expenses are reduced to the 775 pounds of rent. 

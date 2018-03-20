@@ -4,6 +4,8 @@ layout: posts
 date: 2018-03-20 00:00:00 +0000
 categories: []
 ---
+![](/uploads/2018/03/20/Capture.JPG)
+
 I need to buy time, desperately. Today I worked from home, after that I invested the evening to finding the best suppliers for my new flat because...yeah...I've finally moved in. Yay!  
   
 I'm a bargain hunter so this took me the entire rest of the night actually. I didn't have time to study nor today nor the weekend (plus Monday) because I spent it moving from my old flat to here. I also spent 540 pounds in stuff that was needed for the flat and paying the entire year of water bill, a nice surprise, as nice of being stung by a wasp. The results are:

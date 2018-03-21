@@ -56,6 +56,17 @@ This is equivalent to the first year of British A-levels. _2006, Spain._ The sub
 
 ## Job experience
 
+### Administrator / Support Worker
+
+<small><span style="color:orange">How did I find it?</span> I mentioned I was looking for work in a social network and someone was looking for someone with my profile, they contacted me, got an interview and the job.</small>
+
+_Some Person_. Currently since February 2018. London
+
+* Proof-reading texts.
+* Controlling the supplies of stationery in the office and ordering more if required. 
+* Arranging for office furniture and computers to be fixed or fix them myself. 
+* Amending spreadsheets on demand or Word documents.
+
 ### Freelance Video Editor
 
 <small><span style="color:orange">How did I find it?</span> It found me, I didn't search for it. It was a case of being in the right place on the right time. People who knew what I'm capable of with a computer offered it to me and I accepted.</small>

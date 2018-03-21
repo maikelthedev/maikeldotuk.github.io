@@ -63,9 +63,10 @@ This is equivalent to the first year of British A-levels. _2006, Spain._ The sub
 _Some Person_. Currently since February 2018. London
 
 * Proof-reading texts.
-* Controlling the supplies of stationery in the office and ordering more if required. 
-* Arranging for office furniture and computers to be fixed or fix them myself. 
-* Amending spreadsheets on demand or Word documents.
+* Controlling the supplies of stationery in the office and ordering more if required.
+* Arranging for office furniture and computers to be fixed or fix them myself.
+* Creating or amending spreadsheets on demand or Word documents.
+* Upgrading computer systems. 
 
 ### Freelance Video Editor
 

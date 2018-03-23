@@ -45,3 +45,28 @@ Following a method:
 3. Created a test case with MOcha to test that hello. Put all the tests in a test folder
 4. Added the extra dev-dependencies i'll require (mocha, expect, supertest). 
 5. Set nodemon index.js as the start routine. 
+6. Wrote some test code
+
+And it works
+
+![](/uploads/2018/03/23/itowkrs.JPG)
+
+Now that I've got the basics of testing my app covered I need to develop all the other test cases but for that I need to model the data first. 
+
+On one side we've got users. Users should be made of:
+
+* email
+* password
+* token
+
+For that I need mongoose. On the other side I need job applications, they should be made of, according to the mockup pictures of:
+
+* role_name
+* company_name
+* date_applied
+* location
+* reference __ later _ name_
+* cv _ used _ name
+* notes
+
+So before I create tests cases the model for this needs to be created in mongoose. 

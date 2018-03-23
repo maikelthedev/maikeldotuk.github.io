@@ -73,4 +73,4 @@ So before I create tests cases the model for this needs to be created in mongoos
 
 Right, I can create users, log them, unlog them. 
 
- 
+### Coding the users

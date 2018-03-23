@@ -33,3 +33,15 @@ Understanding the storage of passwords is one of the most complex things of the 
 * Video 94 is the key because that's the test case. 
 * Video 95 with findByCredentials to log in users by username and email (and get back the token)
 * **Video 99 is the key of how to connect** the data with the user who created it. Minute 4:12
+
+Right, so that's all the videos I needed, now is time to start coding. 
+
+### The coding part
+
+Following a method:
+
+1. Create a folder for the project and a subfolder for the backend, run npm init to create a node project. 
+2. Created an expressjs app that prints Hello. 
+3. Created a test case with MOcha to test that hello. Put all the tests in a test folder
+4. Added the extra dev-dependencies i'll require (mocha, expect, supertest). 
+5. Set nodemon index.js as the start routine. 

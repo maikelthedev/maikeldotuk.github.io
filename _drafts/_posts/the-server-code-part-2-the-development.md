@@ -69,4 +69,8 @@ For that I need mongoose. On the other side I need job applications, they should
 * cv _ used _ name
 * notes
 
-So before I create tests cases the model for this needs to be created in mongoose. 
+So before I create tests cases the model for this needs to be created in mongoose.
+
+Right, I can create users, log them, unlog them. 
+
+ 

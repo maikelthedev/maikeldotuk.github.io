@@ -1,5 +1,5 @@
 ---
-title: The server code - Part 2 Refactoring and TMA02
+title: The server code - Part 3 Refactoring and TMA02
 layout: posts
 categories:
 - theproject

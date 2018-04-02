@@ -20,3 +20,5 @@ Now the backend is finished and deployed in
 [https://www.maikel.uk/project/](https://www.maikel.uk/project/ "https://www.maikel.uk/project/")
 
 The result is in the image above this post which I will probably use for TMA02. Which I'm going to start writing now. 
+
+It took me just 3 hours to get all the documentation written and the backend deployed on my website. 

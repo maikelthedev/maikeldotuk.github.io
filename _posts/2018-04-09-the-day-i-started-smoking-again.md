@@ -22,6 +22,6 @@ So....I'm back at smoking. Why? Because I had to relieve the pressure somehow an
 
 I know by my job description I can't smoke but is fair enough if I do it **after** work as then the smell won't bother anyone.
 
-I've been 3 years without smoking, I quite because of convictions. I never labelled myself a non-smoker but only a smoker who doesn't smoke. It is a sad day, but either I need to keep my sanity and this, while I try to reduce the pressure, at least until after that exam, I know for a fact that will do the trick. 
+I've been 3 years without smoking, I quite because of convictions. I never labelled myself a non-smoker but only a smoker who doesn't smoke. It is a sad day, but either I need to keep my sanity and this, while I try to reduce the pressure, at least until after that exam, I know for a fact that will do the trick. The trigger has been being heartbroken for so long. If I were not, I wouldn't have to smoke, all other factors are bearable. 
 
 Then...I quite once, I can do it again. 

@@ -6,7 +6,7 @@ categories: []
 ---
 ![](/uploads/2018/04/09/nicotine.jpg)
 
-My life is a mess. I've got pressure coming from many places.
+My life has been quite stressful lately. I've got pressure coming from many places.
 
 * TMA to deliver on the 17th of this month for the project module.
 * TMA to deliver on the 2nd of May for another module
@@ -22,6 +22,6 @@ So....I'm back at smoking. Why? Because I had to relieve the pressure somehow an
 
 I know by my job description I can't smoke but is fair enough if I do it **after** work as then the smell won't bother anyone.
 
-I've been 3 years without smoking, I quite because of convictions. I never labelled myself a non-smoker but only a smoker who doesn't smoke. It is a sad day, but either I need to keep my sanity and this, while I try to reduce the pressure, at least until after that exam, I know for a fact that will do the trick. The trigger has been being heartbroken for so long. If I were not, I wouldn't have to smoke, all other factors are bearable. 
+I've been 3 years without smoking, I quite because of convictions. I never labelled myself a non-smoker but only a smoker who doesn't smoke. It is a sad day, but either I need to keep my sanity and this, while I try to reduce the pressure, at least until after that exam, I know for a fact that will do the trick. The trigger has been being heartbroken for so long. If I were not, I wouldn't have to smoke, all other factors are bearable.
 
-Then...I quite once, I can do it again. 
+Then...I quite once, I can do it again.

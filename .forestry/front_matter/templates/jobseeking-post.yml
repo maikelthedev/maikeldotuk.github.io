@@ -11,6 +11,7 @@ pages:
 - _posts/2018-02-21-pending-references.md
 - _posts/2018-02-13-misleading-interviewers.md
 hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout

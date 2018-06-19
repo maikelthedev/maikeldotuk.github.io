@@ -1,5 +1,5 @@
 ---
-title: Started a frontend
+title: Started the frontend
 layout: posts
 categories:
 - theproject

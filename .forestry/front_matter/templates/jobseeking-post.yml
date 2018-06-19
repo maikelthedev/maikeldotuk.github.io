@@ -1,15 +1,4 @@
 ---
-pages:
-- _posts/2018-04-09-the-day-i-started-smoking-again.md
-- _posts/2018-03-31-after-3-years-i-m-single-again.md
-- _posts/i-m-fixing-my-life.md
-- _posts/2018-03-20-i-need-to-buy-time.md
-- _posts/2018-03-11-i-bought-a-laptop.md
-- _posts/2018-03-05-sunday-funday.md
-- _posts/2018-03-03-moving-on.md
-- _posts/2018-02-22-a-leap-of-faith.md
-- _posts/2018-02-21-pending-references.md
-- _posts/2018-02-13-misleading-interviewers.md
 hide_body: false
 is_partial: false
 fields:
@@ -34,3 +23,14 @@ fields:
   hidden: false
   default:
   - jobseeking
+pages:
+- _posts/2018-03-05-sunday-funday.md
+- _posts/2018-04-09-the-day-i-started-smoking-again.md
+- _posts/2018-03-31-after-3-years-i-m-single-again.md
+- _posts/2018-03-20-i-need-to-buy-time.md
+- _posts/2018-02-22-a-leap-of-faith.md
+- _posts/i-m-fixing-my-life.md
+- _posts/2018-03-11-i-bought-a-laptop.md
+- _posts/2018-02-21-pending-references.md
+- _posts/2018-02-13-misleading-interviewers.md
+- _posts/2018-03-03-moving-on.md

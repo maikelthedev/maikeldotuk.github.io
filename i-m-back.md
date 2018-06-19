@@ -1,5 +1,5 @@
 ---
-title: I'm back
+title: Starting the front-end
 layout: posts
 categories:
 - theproject

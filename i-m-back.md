@@ -3,7 +3,7 @@ title: I'm back
 layout: posts
 categories:
 - theproject
-date: Invalid date
+date: 2018-06-20 00:00:00 +0100
 published: false
 ---
 So, I haven't written in a while because I have to prepare for the exam of TM354 so postponed the project work until I was past that exam.   

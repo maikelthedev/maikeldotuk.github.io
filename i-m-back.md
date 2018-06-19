@@ -21,6 +21,7 @@ On the good side at work I had a similar project so my Angular knowledge is fres
 3. Keep both front-end and back-end running. 
 4. Add bootstrap to the project so it doesn't look ugly. 
 5. Create the login page. 
+6. Create the lists page. 
 
 ## Notes
 

@@ -4,6 +4,7 @@ layout: posts
 categories:
 - theproject
 date: 2018-06-20 20:12:00 +0100
+published: false
 ---
 So, I haven't written in a while because I have to prepare for the exam of TM354 so postponed the project work until I was past that exam.
 

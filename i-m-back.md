@@ -18,7 +18,9 @@ On the good side at work I had a similar project so my Angular knowledge is fres
 
 1. Create the front-end project "ng new frontend"
 2. Push it to github to have it backed-up. 
-3. 
+3. Keep both front-end and back-end running. 
+4. Add bootstrap to the project so it doesn't look ugly. 
+5. Create the login page. 
 
 ## Notes
 

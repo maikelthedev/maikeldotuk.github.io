@@ -83,6 +83,6 @@ Because I have enough worries about everything else to put this one on top. I've
 
 There were 15 minutes today while I was at work that I was feeling so sick I had a panic attack. I just hid it and carried on trying my biggest effort to not fall from my chair, or vomit.
 
-These is what my days have become. I lack freedom more than ever. The longer I live in London, the more I wonder if it's worth trying to settle in the UK. Is like the donkey with the never reachable carrot on a stick. I don't feel there's social mobility in this country. 
+These is what my days have become. I lack freedom more than ever. The longer I live in London, the more I wonder if it's worth trying to settle in the UK. Is like the donkey with the never reachable carrot on a stick. I don't feel there's social mobility in this country.
 
 ![](/uploads/2018/06/20/carrot.jpg)

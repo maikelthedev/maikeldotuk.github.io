@@ -25,7 +25,6 @@ fields:
   config:
     required: true
 pages:
-- _posts/tma03-getting-closer.md
 - _posts/2018-02-19-amazon-machine-images.md
 - _posts/2018-02-21-extra-cloudformation-1.md
 - _posts/2018-02-20-auto-scaling-groups-in-aws.md

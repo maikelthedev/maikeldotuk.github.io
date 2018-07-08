@@ -65,8 +65,8 @@ That didn't work so I'm going for
 
 ## Real problems
 
-So I had problems with the deliverables I have to had ready for this TMA, a big major problem is Test-Driven Angular, another one is to make the app bilingual, something I thought it was a "nice to have feature" that shouldn't be in the final ones. The literature bit of this TMA is very weird compared to the previous TMA and the fact that the formatting has radically changed compared to the previous one, dropping sections I found necessary isn't helping either. 
+So I had problems with the deliverables I have to had ready for this TMA, a big major problem is Test-Driven Angular, another one is to make the app bilingual, something I thought it was a "nice to have feature" that shouldn't be in the final ones. The literature bit of this TMA is very weird compared to the previous TMA and the fact that the formatting has radically changed compared to the previous one, dropping sections I found necessary isn't helping either.
 
-Putting the site behind a load-balancer and finding out the right configuration for AWS took a lot of effort, let alone how to write the right Terraform code. For a time I thought I might had to give up onn that, which is central to this project so I'm glad I managed to fix it at the end. 
+Putting the site behind a load-balancer and finding out the right configuration for AWS took a lot of effort, let alone how to write the right Terraform code. For a time I thought I might had to give up onn that, which is central to this project so I'm glad I managed to fix it at the end.
 
-Then instances were all above 89% and I fixed it. 
+Then instances were all above 89% and I fixed it.

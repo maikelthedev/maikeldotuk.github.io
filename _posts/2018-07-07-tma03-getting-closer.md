@@ -70,3 +70,13 @@ So I had problems with the deliverables I have to had ready for this TMA, a big 
 Putting the site behind a load-balancer and finding out the right configuration for AWS took a lot of effort, let alone how to write the right Terraform code. For a time I thought I might had to give up onn that, which is central to this project so I'm glad I managed to fix it at the end.
 
 Then instances were all above 89% and I fixed it.
+
+# What I should put on the Appendix
+
+1. Infrastructure as code
+2. Parts of the front-end
+3. 1.      Screenshots of any cloud architecture service used and the website sections. 
+
+References that are missing:
+
+Google MAPs API. 

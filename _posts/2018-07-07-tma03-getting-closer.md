@@ -75,3 +75,5 @@ Then instances were all above 89% and I fixed it.
 
 1. Infrastructure as code
 2. Parts of the front-end
+
+Right, TMA sent. 

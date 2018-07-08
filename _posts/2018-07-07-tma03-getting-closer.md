@@ -75,8 +75,3 @@ Then instances were all above 89% and I fixed it.
 
 1. Infrastructure as code
 2. Parts of the front-end
-3. 1.      Screenshots of any cloud architecture service used and the website sections. 
-
-References that are missing:
-
-Google MAPs API. 

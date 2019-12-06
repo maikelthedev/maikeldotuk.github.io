@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Test Posts
-date: 2019-12-13 23:00:00 +0000
+date: 
 categories: routine
 
 ---

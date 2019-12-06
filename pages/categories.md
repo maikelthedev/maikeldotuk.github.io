@@ -1,6 +1,6 @@
 ---
 title: Categories
-layout: pages
+layout: page
 date: 2018-02-10 00:00:00 +0000
 categories: []
 ---

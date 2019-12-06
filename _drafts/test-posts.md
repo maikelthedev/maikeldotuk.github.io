@@ -5,10 +5,8 @@ date:
 categories: routine
 
 ---
-One, two, three
-
 ![](/uploads/DSC00103.JPG)
 
-Hello, one two three
-
 ## Hello
+
+What the fuck is this shit?

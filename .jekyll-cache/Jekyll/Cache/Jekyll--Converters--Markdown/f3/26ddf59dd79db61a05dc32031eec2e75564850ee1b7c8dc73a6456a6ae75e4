@@ -1,0 +1,86 @@
+I"b<p><img src="/uploads/2018/02/19/debian-cloud-building-the-debian-amis-24-638.jpg" alt="" /></p>
+
+<p>Today I’m learning about AMIs.</p>
+
+<p>AMIs allow you to create your own images. Note that AMIs are built for specific regions. They can be copied but by default they are on one region.</p>
+
+<p>You’ll need to create your own AMI so you need to decide what goes into it.</p>
+
+<p><strong>How to set it to run when you reboot it</strong></p>
+
+<p>This is on video 15 at around the 10 minutes mark.</p>
+
+<p>Later today you should use what’s on EC2 to do a machine out of maikel.uk as practice.</p>
+
+<p>Explain why aren’ you using Docker for your AMI (explain first why you were using it for maikel.uk)</p>
+
+<p>Some AMIs in the AWS Marketplace are free but there are many that are paid on top of what AWS EC2 cost.</p>
+
+<p>In Community AMIs there are many who are malware.</p>
+
+<p>AMIs are stored in S3 but they don’t appear in the S3 console (the file manager).</p>
+
+<p>You can use the pricing results for the EMA and as part of the blueprints of the cloud architecture (a deliverable).</p>
+
+<p>Done with the AMI sectio, now the EC2 section.</p>
+
+<h3 id="choosing-the-right-ec2-instance">Choosing the right EC2 instance.</h3>
+
+<p>Factors:</p>
+
+<ul>
+  <li>RAM</li>
+  <li>CPU</li>
+  <li>I/O (disk)</li>
+  <li>Network</li>
+  <li>GPU (if the instance has one)</li>
+</ul>
+
+<p>Video 22 tells you how to monitor the CPU usage from the console.</p>
+
+<p>To be continued this evening…</p>
+
+<h3 id="continuing">Continuing</h3>
+
+<p>Back from working in the council now I can continue.</p>
+
+<p>IO is key for database applications. Consider it when choosing where to store the MongoDB instance.</p>
+
+<p>Bunrstable instances are the T2. If you choose T2 you might have to change to T2 Unlimited (video 29) because otherwise it’ll be weird for an autoscalable system.</p>
+
+<h3 id="network-and-security">Network and Security</h3>
+
+<p>I’m trying to get rid of the entire course today so moving onto this section.</p>
+
+<p>Keep a separated security group for SSH instances. (video 30 and 32). You need to choose how are you designing the IP addresses of your cloud architecture .</p>
+
+<p>CIDR are usueful to set HTTP rules for entire networks, see picture. You’ll need this for autoscaling.</p>
+
+<p><img src="/uploads/2018/02/19/entirenetworks.JPG" alt="" /></p>
+
+<p>Secondary button on the instance, then networking, then attach security groups. You can attach multiple to one instance.</p>
+
+<p>You can use Elastic IPs to mask the failure of an instance. If you use a load balancer you only need one public IP.</p>
+
+<p>Placements gruops Spreads are the ones you need (video 35)</p>
+
+<h3 id="elastic-load-balancing-elb">Elastic Load Balancing (ELB)</h3>
+
+<p>Finally reached the section I wanted. Video 36 has a defintion of load balancer that you could use. This video mention about giving SSL termination to your website. At 3:19 it gives you the advantages of using the amazon one.</p>
+
+<p>Use the DNS name for it or use anything.maikel.uk</p>
+
+<p>Note that load balancing distributes over <strong>running</strong> instances but doesn’t start them or stop them, that is <strong>autoscaling.</strong></p>
+
+<p>You need to know what type of health check are you going to set up.</p>
+
+<p>There are three types of load balancer, explain why you chose the one you choose (Application Load Balancer)</p>
+
+<h3 id="auto-scaling-groups-asg">Auto Scaling Groups (ASG)</h3>
+
+<p>With this you can scale in (remove instances) or scale out (add instances) to match your load. And automatially add them to a load balancer.</p>
+
+<p>You could use MongoDB atlas por the DB.</p>
+
+<p>More tomorrow…</p>
+:ET

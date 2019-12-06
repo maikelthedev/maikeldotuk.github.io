@@ -14,25 +14,21 @@ Doing changes and deploying those changes to the server is quite a hindrance so 
 Sources:
 
 So far this is what I'm doing:
+{% highlight javascript %}
+const gulp = require('gulp');
 
-    const gulp = require('gulp');
-    
-    gulp.task('name', function() {
-      console.log('hello');
-    });
-    
-    // Clean the dist directory in frontend
-    // Clean the views directory in backend
-    
-    // build the frontend
-    // Copy the frontend to th ebackend views folder.
-    
-    // Git update both.
-     
-    
-    
-    gulp.task('default', ['name']);
+gulp.task('name', function() {
+  console.log('hello');
+});
 
+// Clean the dist directory in frontend
+// Clean the views directory in backend
+// build the frontend
+// Copy the frontend to th ebackend views folder.
+// Git update both.
+  
+gulp.task('default', ['name']);
+{% endhighlight %}
 Now I just have to fill the blanks.
 
 So now I have an environment in which I can change stuff in the frontend, run gulp and it amends it on the server.

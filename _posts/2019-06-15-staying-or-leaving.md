@@ -25,6 +25,19 @@ By contract, today 15th of June I've got to tell whether I'm staying in my flat 
 * Avoid the heat. 
 * Find a final place?
 * Find a quieter place. 
+* Spend less if stuff is farther.
 
 
 An important thing to remember is the fact this isn't about staying or leaving Barcelona. This is about this flat only. The best thing to consider is, if I stayed in Barcelona, do I want to do it in this flat?
+
+# Possible scenarios
+
+## Scenario 1. Leaving on the last day of June. 
+
+So, I pack all my stuff and move to a friend's place nearby. From there I decide what to do next. The options are limitless. I can go back to the UK, stay in Barcelona in a better flat, go to Andorra, stay with my parents for a while.
+If I went back to the UK, for now, I would have to stay in the same place 14 days. 
+
+
+## Scenario 2. Staying until the end of July. 
+
+That buys time, 

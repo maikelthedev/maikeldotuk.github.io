@@ -1,6 +1,6 @@
 ---
 title: Staying or leaving
-date: 2020-06-15T11:12:03.284+00:00
+date: 2020-06-15 00:00:00 +0200
 description: About whether I should stay in this flat or move to another
 layout: post
 categories: independence

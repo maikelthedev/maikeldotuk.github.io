@@ -16,6 +16,7 @@ By contract, today 15th of June I've got to tell whether I'm staying in my flat 
 * Knowing for sure you share with 1 or two. 
 * It's the simplest option. 
 * Can decide every month. 
+* Maremagnum just outside
 
 ## Pros of Leaving
 
@@ -23,6 +24,7 @@ By contract, today 15th of June I've got to tell whether I'm staying in my flat 
 * Avoid mosquitoes
 * Avoid the heat. 
 * Find a final place?
+* Find a quieter place. 
 
 
 An important thing to remember is the fact this isn't about staying or leaving Barcelona. This is about this flat only. The best thing to consider is, if I stayed in Barcelona, do I want to do it in this flat?

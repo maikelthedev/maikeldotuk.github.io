@@ -15,4 +15,4 @@ By contract, today 15th of June I've got to tell whether I'm staying in my flat 
 | Staying | Sharing with 1 or two<br> | Mosquitoes<br>Expensive for sharing<br>Too hot<br>Clearly not a final place |
 | Leaving | Find a cheaper flat | Moving stuff around<br>Having to find another place |
 
-An important thing to remember is the fact this isn't about staying or leaving Barcelona.This is about this flat only. The best thing to consider is, if i stayed in Barcelona, do i want to do it in this flat ?
+An important thing to remember is the fact this isn't about staying or leaving Barcelona. This is about this flat only. The best thing to consider is, if I stayed in Barcelona, do I want to do it in this flat?

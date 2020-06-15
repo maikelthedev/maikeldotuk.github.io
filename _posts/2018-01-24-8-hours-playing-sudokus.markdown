@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 8 hours playing sudokus
 date: 2018-01-24 22:00:01 +0000
 categories: jobseeking

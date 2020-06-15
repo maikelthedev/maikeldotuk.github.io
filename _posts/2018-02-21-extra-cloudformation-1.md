@@ -1,6 +1,6 @@
 ---
 title: 'EXTRA: CloudFormation'
-layout: posts
+layout: post
 categories:
 - theproject
 date: 2018-02-21 00:00:00 +0000

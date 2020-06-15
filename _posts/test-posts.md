@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Test Posts
 date: 2019-12-05 23:00:00 +0000
 categories: routine

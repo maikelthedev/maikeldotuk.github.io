@@ -1,6 +1,6 @@
 ---
 title: The Mockup
-layout: posts
+layout: post
 categories:
 - theproject
 date: 2018-03-04 18:06:35 +0000

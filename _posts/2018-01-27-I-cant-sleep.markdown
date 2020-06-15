@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: I can't sleep
 date: 2018-01-27 01:00:01 +0000
 categories: jobseeking

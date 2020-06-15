@@ -1,6 +1,6 @@
 ---
 title: TMA03 getting closer
-layout: posts
+layout: post
 categories:
 - theproject
 date: 2018-07-07 00:00:00 +0000

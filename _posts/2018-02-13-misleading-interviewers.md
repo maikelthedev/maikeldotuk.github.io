@@ -1,6 +1,6 @@
 ---
 title: Bad Interviewers
-layout: posts
+layout: post
 date: 2018-02-13 00:00:00 +0000
 categories:
 - jobseeking

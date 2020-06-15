@@ -1,6 +1,6 @@
 ---
 title: The server code - Part 1 The Research
-layout: posts
+layout: post
 categories:
 - theproject
 date: 2018-03-12 22:54:50 +0000

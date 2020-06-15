@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: What is going on
 date: 2018-02-02 23:48:01 +0000
 categories: jobseeking

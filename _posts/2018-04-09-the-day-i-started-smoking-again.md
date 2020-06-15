@@ -1,6 +1,6 @@
 ---
 title: The sad day I started smoking again
-layout: posts
+layout: post
 date: 2018-04-09 00:00:00 +0000
 categories: []
 ---

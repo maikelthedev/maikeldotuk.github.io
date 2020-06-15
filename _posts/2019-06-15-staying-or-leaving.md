@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Staying or leaving"
 date: "2020-06-15T11:12:03.284Z"
 description: "About whether I should stay in this flat or move to another"

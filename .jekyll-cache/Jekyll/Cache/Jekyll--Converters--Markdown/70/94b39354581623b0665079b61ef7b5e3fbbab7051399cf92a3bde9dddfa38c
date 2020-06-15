@@ -1,4 +1,4 @@
-I"l9<p><img src="/uploads/2018/03/11/0_kJRU-y-GlI_z0i7o.jpg" alt="" /></p>
+I":<p><img src="/uploads/2018/03/11/0_kJRU-y-GlI_z0i7o.jpg" alt="" /></p>
 
 <p>This is going to be a long running post, so it is going to stay in draft mode for a very long time. I’ve got until the 26th of April to write the server side code but if I finish earlier that is errors and bugs that I can fix. Until then this post will be open.</p>
 
@@ -64,21 +64,21 @@
 
 <p>Remember that Mocha must be saved as –save-dev such as</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npm i mocha --save-dev
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npm i mocha --save-dev
 </code></pre></div></div>
 
 <p>And now, beware this is Behaviour-Driven Development (BDD) so you will have to explain that and also what the mocha framework is.</p>
 
 <p>Note the way it has to be written in packages.json</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"test": "mocha **test.js", 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"test": "mocha **test.js", 
 </code></pre></div></div>
 
 <p>And that says which files mocha has to check.</p>
 
 <p>So it is a matter of using it(‘The message’, callback) and in the callback use</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>throw new Error('The message');
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>throw new Error('The message');
 </code></pre></div></div>
 
 <p>to get the test. Error can use string templating so you could use that to see what was receive instead.</p>
@@ -95,12 +95,12 @@
 
 <p>So now every time the test are changed it reruns. Other way is to use test-watch in packages.json</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"test-watch": "nodemon --exec \"npm test\"",
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"test-watch": "nodemon --exec \"npm test\"",
 </code></pre></div></div>
 
 <p>Now with</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npm run test-watch
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npm run test-watch
 </code></pre></div></div>
 
 <p>You get it running</p>
@@ -111,7 +111,7 @@
 
 <p>Async calls are a bit harder. This is an example of it, what matters is to add done in the call and in after the return.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>it('should return something', (done) =&gt; {
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>it('should return something', (done) =&gt; {
   aSync('Something', (result) =&gt; {
     expect(result).toBe('Something');
     done();
@@ -129,7 +129,7 @@
 
 <p>The last thing to remember is using <strong>describe</strong> which is part of the Mocha framework to group the tests. This is its usage:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>describe('Whatever you want to say', () =&gt; {
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>describe('Whatever you want to say', () =&gt; {
 the test;
 the other test;
 });
@@ -194,7 +194,7 @@ the other test;
 
 <p>Notice how to query an object ID you have to use</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>new ObjectID(theID)
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>new ObjectID(theID)
 </code></pre></div></div>
 
 <p>And then it works. Now is about using <strong>Mongoose</strong> which is an ORM (object relation mapping…no idea) link here (<a href="http://mongoosejs.com/">reference</a>)</p>
@@ -225,7 +225,7 @@ the other test;
 
 <p>This is the key line to set NODE_ENV to test in both windows and unix</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"test": "export NODE_ENV=test || SET \"NODE_ENV=test\" &amp;&amp; mocha **test.js ",
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"test": "export NODE_ENV=test || SET \"NODE_ENV=test\" &amp;&amp; mocha **test.js ",
 </code></pre></div></div>
 
 <p>It goes inside package.json</p>

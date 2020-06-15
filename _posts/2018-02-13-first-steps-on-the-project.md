@@ -1,6 +1,6 @@
 ---
 title: 'First steps on the project: Auto scaling'
-layout: posts
+layout: post
 categories:
 - theproject
 date: 2018-02-13 19:32:05 +0000

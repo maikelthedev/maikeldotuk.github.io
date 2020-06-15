@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Let's be a cleaner ...again
 date: 2018-01-28 23:00:01 +0000
 categories: jobseeking

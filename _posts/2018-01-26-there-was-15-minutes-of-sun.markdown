@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: There were 15 minutes of sun
 date: 2018-01-26 23:00:01 +0000
 categories: jobseeking

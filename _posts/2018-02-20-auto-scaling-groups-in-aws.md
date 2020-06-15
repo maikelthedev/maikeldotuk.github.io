@@ -1,6 +1,6 @@
 ---
 title: Auto Scaling Groups in AWS
-layout: posts
+layout: post
 categories:
 - theproject
 date: 2018-02-20 00:00:00 +0000

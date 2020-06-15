@@ -1,6 +1,6 @@
 ---
 title: The server code - Part 2 The development
-layout: posts
+layout: post
 categories:
 - theproject
 date: 2018-03-24 16:39:19 +0000

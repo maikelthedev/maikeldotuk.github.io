@@ -1,6 +1,6 @@
 ---
 title: Amazon Machine Images
-layout: posts
+layout: post
 categories:
 - theproject
 date: 2018-02-19 12:30:49 +0000

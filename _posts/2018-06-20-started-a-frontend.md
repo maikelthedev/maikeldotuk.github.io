@@ -1,6 +1,6 @@
 ---
 title: Started the frontend
-layout: posts
+layout: post
 categories:
 - theproject
 date: 2018-06-20 20:12:00 +0100

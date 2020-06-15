@@ -1,6 +1,6 @@
 ---
 title: Worried about way too much stuff
-layout: posts
+layout: post
 categories:
 - routine
 date: 2018-06-20 20:00:00 +0100

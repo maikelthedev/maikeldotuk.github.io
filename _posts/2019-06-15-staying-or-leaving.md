@@ -44,4 +44,4 @@ This also buys time if I want to try my luck finding work directly in Barcelona.
 
 ## So...decision
 
-I chose the end of the month. 
+I chose the end of the month. Ignoring all other factors, this flat never really convinced me. 

@@ -1,7 +1,9 @@
 ---
 title: Staying or leaving
-date: 2020-06-15T11:12:03.284Z
+date: 2020-06-15T11:12:03.284+00:00
 description: About whether I should stay in this flat or move to another
+layout: post
+categories: ''
 
 ---
 # The issue

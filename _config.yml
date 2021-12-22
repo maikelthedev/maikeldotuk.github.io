@@ -8,7 +8,7 @@ twitter_username: maikeldotuk
 github_username:  maikeldotuk
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
